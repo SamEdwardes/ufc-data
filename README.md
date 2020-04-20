@@ -1,6 +1,7 @@
 # UFC Fight Data
 
-This repo was created to hold data created by Rajeev Warrier and hosted on Kaggle:
+[fight_results.csv](fight_results.csv) - from ufcstats.com
 
-[https://www.kaggle.com/rajeevw/ufcdata#data.csv](https://www.kaggle.com/rajeevw/ufcdata#data.csv).
+All other files from Rajeev Warrier and hosted on Kaggle:
 
+https://www.kaggle.com/rajeevw/ufcdata#data.csv.
