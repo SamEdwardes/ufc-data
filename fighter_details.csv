@@ -1,0 +1,877 @@
+fighter_url,first_name,last_name,nickname,height_inches,weight_lbs,reach_inches,stance,wins,loss,draws,belt
+http://www.ufcstats.com/fighter-details/93fe7332d16c6ad9,Tom,Aaron,,,155.0,,,5,3,0,False
+http://www.ufcstats.com/fighter-details/15df64c02b6b0fde,Danny,Abbadi,The Assassin,71.0,155.0,,Orthodox,4,6,0,False
+http://www.ufcstats.com/fighter-details/b361180739bed4b0,David,Abbott,Tank,72.0,265.0,,Switch,10,14,0,False
+http://www.ufcstats.com/fighter-details/2f5cbecbbe18bac4,Shamil,Abdurakhimov,Abrek,75.0,235.0,76.0,Orthodox,20,5,0,False
+http://www.ufcstats.com/fighter-details/c0ed7b208197e8de,Hiroyuki,Abe,Abe Ani,66.0,145.0,,Orthodox,8,14,3,False
+http://www.ufcstats.com/fighter-details/5140122c3eecd307,Daichi,Abe,,71.0,170.0,71.0,Orthodox,6,2,0,False
+http://www.ufcstats.com/fighter-details/c9f6385af6df66d7,Papy,Abedi,Makambo,71.0,185.0,74.0,Southpaw,9,3,0,False
+http://www.ufcstats.com/fighter-details/aa6e591c2a2cdecd,Ricardo,Abreu,Demente,71.0,185.0,73.0,Orthodox,5,3,0,False
+http://www.ufcstats.com/fighter-details/7279654c7674cd24,Klidson,Abreu,White Bear,72.0,205.0,74.0,Orthodox,15,4,0,False
+http://www.ufcstats.com/fighter-details/1c5879330d42255f,Daniel,Acacio,,68.0,180.0,,Orthodox,26,12,0,False
+http://www.ufcstats.com/fighter-details/2620f3eb21c79614,Scott,Adams,,72.0,225.0,,Southpaw,8,1,0,False
+http://www.ufcstats.com/fighter-details/83b00f7597e5ac83,Juan,Adams,The Kraken,77.0,265.0,80.0,Orthodox,5,3,0,False
+http://www.ufcstats.com/fighter-details/a77633a989013265,Anthony,Adams,Sugafoot,72.0,185.0,77.0,Orthodox,7,1,0,False
+http://www.ufcstats.com/fighter-details/1338e2c7480bdf9e,Israel,Adesanya,The Last Stylebender,76.0,185.0,80.0,Switch,19,0,0,True
+http://www.ufcstats.com/fighter-details/0e9869d712e81f8f,Sam,Adkins,The Experience,75.0,225.0,,Orthodox,7,20,2,False
+http://www.ufcstats.com/fighter-details/ebc5af72ad5a28cb,Nick,Agallar,,68.0,155.0,,Orthodox,24,6,0,False
+http://www.ufcstats.com/fighter-details/a08ddd04eaffd81d,Mariya,Agapova,,68.0,125.0,,Southpaw,6,1,0,False
+http://www.ufcstats.com/fighter-details/44aa652b181bcf68,Marcelo,Aguiar,,70.0,170.0,,Orthodox,2,3,1,False
+http://www.ufcstats.com/fighter-details/6cadc0a0ba7dc015,Edwin,Aguilar,Tigre,70.0,185.0,,,22,16,0,False
+http://www.ufcstats.com/fighter-details/8f382b3baa954d2a,Jessica,Aguilar,Jag,63.0,115.0,63.0,Orthodox,20,8,0,False
+http://www.ufcstats.com/fighter-details/cf946e03ba2e7666,Kevin,Aguilar,Angel of Death,67.0,145.0,73.0,Orthodox,17,3,0,False
+http://www.ufcstats.com/fighter-details/9e3dbb9c68ed5d1a,Mike,Aina,Iron,69.0,155.0,,Orthodox,12,6,1,False
+http://www.ufcstats.com/fighter-details/2eada40ac8801559,Hitomi,Akano,Girlfight Monster,64.0,135.0,,Southpaw,18,8,0,False
+http://www.ufcstats.com/fighter-details/16690d100f995f8f,Omari,Akhmedov,Wolverine,72.0,185.0,73.0,Orthodox,20,4,1,False
+http://www.ufcstats.com/fighter-details/b0550072e5f0afa7,Yoshihiro,Akiyama,,70.0,170.0,73.0,Orthodox,14,6,0,False
+http://www.ufcstats.com/fighter-details/1fc64507a0cb38cf,Rostem,Akman,Kurdimus Prime,70.0,170.0,72.0,Switch,6,2,0,False
+http://www.ufcstats.com/fighter-details/38b50fd1e1b5b656,Razak,Al-Hassan,,74.0,205.0,,Orthodox,11,5,0,False
+http://www.ufcstats.com/fighter-details/1cf1310684a841f5,Mostapha,Al-Turk,,74.0,245.0,77.0,Orthodox,6,6,0,False
+http://www.ufcstats.com/fighter-details/7578cc6bd750206b,Herdem,Alacabek,,74.0,205.0,75.0,Orthodox,5,1,0,False
+http://www.ufcstats.com/fighter-details/2144954270be834d,Javi,Alanis,,66.0,135.0,,,0,3,0,False
+http://www.ufcstats.com/fighter-details/1897b7b913736a7c,Heili,Alateng,The Mongolian Knight,65.0,135.0,66.0,Orthodox,14,7,1,False
+http://www.ufcstats.com/fighter-details/9b28292abe3166d5,Brett,Albee,,,225.0,,,3,1,0,False
+http://www.ufcstats.com/fighter-details/7bd94b60d7521e4a,John,Albert,Prince,68.0,135.0,68.0,Orthodox,7,5,0,False
+http://www.ufcstats.com/fighter-details/c482c8605455a213,Junior,Albini,Baby,75.0,264.0,74.0,Orthodox,14,6,0,False
+http://www.ufcstats.com/fighter-details/184b955181bdef52,Wes,Albritton,,70.0,188.0,,Orthodox,0,1,0,False
+http://www.ufcstats.com/fighter-details/e76d9f656ceb82ab,Alexandra,Albu,Stitch,62.0,115.0,63.0,Orthodox,7,2,0,False
+http://www.ufcstats.com/fighter-details/dd1b90eea08887f6,Israel,Albuquerque,,,185.0,,Orthodox,0,3,0,False
+http://www.ufcstats.com/fighter-details/39f62b833e4cf126,Juan,Alcain,,,,,,1,2,0,False
+http://www.ufcstats.com/fighter-details/2f95a3c6d58b2aad,Iuri,Alcantara,Marajo,69.0,135.0,71.0,Southpaw,35,10,0,False
+http://www.ufcstats.com/fighter-details/7c6e87729e824ef4,Ildemar,Alcantara,Marajo,74.0,185.0,78.0,Orthodox,21,8,0,False
+http://www.ufcstats.com/fighter-details/1e38bba6738b7b10,Alfonso,Alcarez,,63.0,145.0,,,1,3,1,False
+http://www.ufcstats.com/fighter-details/d26934530dc5b248,Gilbert,Aldana,El Peligro,73.0,250.0,,Orthodox,6,2,0,False
+http://www.ufcstats.com/fighter-details/578ef12674df1e6a,Irene,Aldana,,69.0,135.0,68.0,Orthodox,12,5,0,False
+http://www.ufcstats.com/fighter-details/c487223b0289bda9,Hector,Aldana,El Charro,71.0,170.0,72.0,Orthodox,4,4,0,False
+http://www.ufcstats.com/fighter-details/d0f3959b4a9747e6,Jose,Aldo,,67.0,135.0,70.0,Orthodox,28,6,0,False
+http://www.ufcstats.com/fighter-details/6fd953151d981979,JJ,Aldrich,,65.0,125.0,67.0,Southpaw,8,4,0,False
+http://www.ufcstats.com/fighter-details/fe5a9547479396ab,Jim,Alers,The Beast,69.0,145.0,71.0,Orthodox,13,3,0,False
+http://www.ufcstats.com/fighter-details/7a15f3694c5cbc02,John,Alessio,The Natural,70.0,155.0,72.0,Orthodox,34,16,0,False
+http://www.ufcstats.com/fighter-details/0541480fbf719d86,Houston,Alexander,The Assassin,72.0,205.0,72.0,Orthodox,13,8,1,False
+http://www.ufcstats.com/fighter-details/8fd76e1b49c00ae2,Kenneth,Alexander,The Machine,69.0,155.0,,Orthodox,5,5,0,False
+http://www.ufcstats.com/fighter-details/d53482bef23235ba,Marcio,Alexandre Junior,Lyoto,72.0,185.0,75.0,Southpaw,17,4,0,False
+http://www.ufcstats.com/fighter-details/b757c73f443d4fca,Olaf,Alfonso,,74.0,170.0,,Orthodox,8,11,0,False
+http://www.ufcstats.com/fighter-details/4b37a0bc2ab4cae1,Pablo,Alfonso,The Hurricane,68.0,145.0,,,6,5,0,False
+http://www.ufcstats.com/fighter-details/41b34b7f11f6d085,Levi,Alford,,,,,,1,4,0,False
+http://www.ufcstats.com/fighter-details/9abc648e76c4493a,Bill,Algeo,Senor Perfecto,72.0,145.0,73.0,Switch,12,3,0,False
+http://www.ufcstats.com/fighter-details/669a3cb6e394f515,Royce,Alger,,70.0,199.0,,Orthodox,3,2,0,False
+http://www.ufcstats.com/fighter-details/e17770faae3ca54c,Amir,Aliakbari,,75.0,250.0,,,10,1,0,False
+http://www.ufcstats.com/fighter-details/e70de1859b7ee78e,Sultan,Aliev,,71.0,170.0,74.0,Orthodox,15,3,0,False
+http://www.ufcstats.com/fighter-details/6ebe96a116e79e52,John,Allan,,75.0,205.0,75.0,Orthodox,13,5,0,False
+http://www.ufcstats.com/fighter-details/1e13936d708bcff7,George,Allen,,74.0,205.0,,Open Stance,13,19,2,False
+http://www.ufcstats.com/fighter-details/040a74bb0a465c54,Arnold,Allen,Almighty,68.0,145.0,70.0,Southpaw,16,1,0,False
+http://www.ufcstats.com/fighter-details/2f181c0467965b98,Brendan,Allen,All In,74.0,185.0,75.0,Orthodox,14,3,0,False
+http://www.ufcstats.com/fighter-details/c4fe2e9a06ea5bcb,Benny,Alloway,Blanco,71.0,170.0,75.0,Orthodox,13,6,0,False
+http://www.ufcstats.com/fighter-details/91186547a7f3f758,Ricardo,Almeida,Big Dog,72.0,170.0,74.0,Orthodox,13,5,0,False
+http://www.ufcstats.com/fighter-details/d615d6a10a4704cd,Magno,Almeida,,72.0,155.0,,,9,3,0,False
+http://www.ufcstats.com/fighter-details/2b074403b7c6cdb4,Thomas,Almeida,Thominhas,67.0,135.0,70.0,Southpaw,22,3,0,False
+http://www.ufcstats.com/fighter-details/67a992d4cff22466,Ericka,Almeida,,66.0,115.0,68.0,Orthodox,7,2,0,False
+http://www.ufcstats.com/fighter-details/f16ddfa31236efed,Estefani,Almeida,,64.0,125.0,,Orthodox,7,2,0,False
+http://www.ufcstats.com/fighter-details/c6bf75775b278ed8,Mauricio,Alonso,,74.0,170.0,,,13,7,0,False
+http://www.ufcstats.com/fighter-details/49b130de1da2e1bf,Sarah,Alpar,Too Sweet,64.0,135.0,,Southpaw,8,4,0,False
+http://www.ufcstats.com/fighter-details/c61b49cec6abd6b9,Rico,Altamirano,,70.0,170.0,,,3,2,0,False
+http://www.ufcstats.com/fighter-details/c11036da9162cb5f,Mike,Altman,,70.0,185.0,,Orthodox,1,4,0,False
+http://www.ufcstats.com/fighter-details/e741536153227386,Sean,Alvarez,,72.0,235.0,,Orthodox,4,3,0,False
+http://www.ufcstats.com/fighter-details/33a331684283900f,Eddie,Alvarez,The Underground King,69.0,155.0,69.0,Orthodox,29,6,0,False
+http://www.ufcstats.com/fighter-details/4438482bd1d5a029,Jaime,Alvarez,,68.0,125.0,69.0,Orthodox,6,1,0,False
+http://www.ufcstats.com/fighter-details/58bbef3770bb2dfc,Joel,Alvarez,El Fenomeno,75.0,155.0,77.0,Orthodox,16,2,0,False
+http://www.ufcstats.com/fighter-details/31ee470ef5dc8d7f,Thiago,Alves,Pitbull,69.0,170.0,70.0,Orthodox,28,15,0,False
+http://www.ufcstats.com/fighter-details/bd92cf5da5413d2a,Anthony,Alves,,,,,,1,3,0,False
+http://www.ufcstats.com/fighter-details/dc5a6b2fdb27e7dc,Amilcar,Alves,,72.0,170.0,,Southpaw,11,4,0,False
+http://www.ufcstats.com/fighter-details/d317a5e2b3f88c5f,Warlley,Alves,,71.0,170.0,72.0,Orthodox,14,4,0,False
+http://www.ufcstats.com/fighter-details/d156513a19acf856,Sam,Alvey,Smile'N,74.0,205.0,75.0,Southpaw,33,14,0,False
+http://www.ufcstats.com/fighter-details/20821819c401ced8,Andre,Amado,Dida,72.0,154.0,,Orthodox,6,4,1,False
+http://www.ufcstats.com/fighter-details/1e327b281ef6a745,Adlan,Amagov,Borz,74.0,170.0,76.0,Orthodox,13,2,1,False
+http://www.ufcstats.com/fighter-details/247fbbfafea60bb1,Maiara,Amanajas dos Santos,,65.0,115.0,,Southpaw,7,3,0,False
+http://www.ufcstats.com/fighter-details/ee0b69e307c857e5,Chris,Amarante,,,185.0,,,2,0,0,False
+http://www.ufcstats.com/fighter-details/c912f676692c353a,Jimmy,Ambriz,The Titan,74.0,315.0,,Southpaw,15,18,1,False
+http://www.ufcstats.com/fighter-details/d562b12b8fe88336,JJ,Ambrose,,70.0,170.0,,Orthodox,17,3,0,False
+http://www.ufcstats.com/fighter-details/70fa1c64a2c439ef,Alen,Amedovski,,70.0,185.0,74.0,Orthodox,8,2,0,False
+http://www.ufcstats.com/fighter-details/87a1dc546b1c5caf,Makwan,Amirkhani,Mr. Finland,70.0,145.0,72.0,Southpaw,15,4,0,False
+http://www.ufcstats.com/fighter-details/53adf5b845d91e4a,Bertrand,Amoussou,,68.0,190.0,,Orthodox,1,1,0,False
+http://www.ufcstats.com/fighter-details/23a8c33869bf5392,Karl,Amoussou,The Psycho,71.0,185.0,,Orthodox,12,4,2,False
+http://www.ufcstats.com/fighter-details/cad24459b28592ca,Eryk,Anders,Ya Boi,73.0,185.0,75.0,Southpaw,13,5,0,False
+http://www.ufcstats.com/fighter-details/8738eacd62e82a32,Matt,Andersen,,74.0,230.0,,Southpaw,14,8,1,False
+http://www.ufcstats.com/fighter-details/9199e0735b83dd32,Andy,Anderson,The Hammer,66.0,240.0,,,0,1,0,False
+http://www.ufcstats.com/fighter-details/1ffc38f67785797b,Lowell,Anderson,,66.0,160.0,,Orthodox,0,1,0,False
+http://www.ufcstats.com/fighter-details/5e4eec08896c9423,Corey,Anderson,Overtime,75.0,205.0,79.0,Orthodox,14,5,0,False
+http://www.ufcstats.com/fighter-details/19ba965651486013,Derek,Anderson,Barbaric,72.0,155.0,,,14,3,0,False
+http://www.ufcstats.com/fighter-details/a0e75f4a13eb73f1,Megan,Anderson,,72.0,145.0,72.0,Orthodox,11,4,0,False
+http://www.ufcstats.com/fighter-details/1562b12763cc8d67,Alex,Andrade,El Toro,71.0,200.0,,Orthodox,10,5,0,False
+http://www.ufcstats.com/fighter-details/6a1901c62ab3870f,Jessica,Andrade,Bate Estaca,61.0,115.0,62.0,Orthodox,20,7,0,False
+http://www.ufcstats.com/fighter-details/d221ee27afc7a60e,Viscardi,Andrade,,71.0,170.0,75.0,Orthodox,19,7,0,False
+http://www.ufcstats.com/fighter-details/9bad58fa651d6196,Jermaine,Andre,,67.0,200.0,,Orthodox,14,4,0,False
+http://www.ufcstats.com/fighter-details/00debc804e2b1cd4,Dylan,Andrews,The Villain,73.0,185.0,73.0,Switch,18,8,0,False
+http://www.ufcstats.com/fighter-details/46e2ca71fd5089cb,Reese,Andy,Riptide,72.0,205.0,,Orthodox,7,3,0,False
+http://www.ufcstats.com/fighter-details/e20ad078a7d63361,Julius,Anglickas,,75.0,205.0,,Orthodox,6,1,0,False
+http://www.ufcstats.com/fighter-details/e06fd1260ac865a7,Yoji,Anjo,Mr. 200%,71.0,205.0,,Orthodox,0,5,1,False
+http://www.ufcstats.com/fighter-details/d802174b0c0c1f4e,Magomed,Ankalaev,,75.0,205.0,75.0,Orthodox,13,1,0,False
+http://www.ufcstats.com/fighter-details/d343df8ba11f4c4e,Nina,Ansaroff,The Strina,65.0,115.0,64.0,Orthodox,10,6,0,False
+http://www.ufcstats.com/fighter-details/af997f7611673880,Gadzhimurad,Antigulov,,71.0,205.0,70.0,Orthodox,20,6,0,False
+http://www.ufcstats.com/fighter-details/25b31165758402dd,Adam,Antolin,Captain Chaos,65.0,125.0,63.0,Orthodox,12,3,0,False
+http://www.ufcstats.com/fighter-details/dbd198f780286aca,Angelo,Antonio,,,205.0,,Orthodox,1,3,0,False
+http://www.ufcstats.com/fighter-details/78d48d3874dacafd,Zu,Anyanwu,8th Wonder,73.0,251.0,77.0,Orthodox,14,5,0,False
+http://www.ufcstats.com/fighter-details/4665f9f909cd7214,Shinsho,Anzai,Animal,67.0,170.0,70.0,Orthodox,10,3,0,False
+http://www.ufcstats.com/fighter-details/79ded75550efc139,Shinya,Aoki,Tobikan Judan,71.0,154.0,,Southpaw,30,5,0,False
+http://www.ufcstats.com/fighter-details/0c1a04afca64e38f,Josh,Appelt,The Juggernaut,70.0,255.0,73.0,Southpaw,15,6,0,False
+http://www.ufcstats.com/fighter-details/1ccff7f0cfdf85eb,Erik,Apple,,72.0,170.0,,Orthodox,10,3,0,False
+http://www.ufcstats.com/fighter-details/269d103c96a4c3a5,Kenji,Arai,,70.0,145.0,,Southpaw,15,15,5,False
+http://www.ufcstats.com/fighter-details/73ef22f25d0f70e2,Romie,Aram,,70.0,170.0,,Orthodox,7,1,0,False
+http://www.ufcstats.com/fighter-details/71002dbc1743b9a7,Felipe,Arantes,Sertanejo,68.0,135.0,73.0,Orthodox,18,10,1,False
+http://www.ufcstats.com/fighter-details/dbea8c1cb327ab3d,Igor,Araujo,,73.0,170.0,77.0,Orthodox,25,8,0,False
+http://www.ufcstats.com/fighter-details/36541f1e6c5d4955,Viviane,Araujo,Vivi,64.0,125.0,68.0,Orthodox,8,2,0,False
+http://www.ufcstats.com/fighter-details/1291edf2d566a71a,Julio,Arce,,67.0,145.0,70.0,Southpaw,16,4,0,False
+http://www.ufcstats.com/fighter-details/d25e39e74efb0a77,Art,Arciniega,King Arthur,68.0,145.0,,,15,7,0,False
+http://www.ufcstats.com/fighter-details/9c9455912d917e4e,Tristan,Arenal,,,155.0,,,4,1,0,False
+http://www.ufcstats.com/fighter-details/3738e68d2261e60f,Andrei,Arlovski,The Pitbull,75.0,240.0,77.0,Orthodox,29,19,0,False
+http://www.ufcstats.com/fighter-details/30ad2050273d016a,Joey,Armstrong,,,,,,5,2,0,False
+http://www.ufcstats.com/fighter-details/bf0e700106d00e55,Austin,Arnett,Golden Boy,72.0,145.0,72.0,Orthodox,16,6,0,False
+http://www.ufcstats.com/fighter-details/05fbfe628658c538,Ricardo,Arona,The Brazilian Tiger,71.0,205.0,,Orthodox,14,5,0,False
+http://www.ufcstats.com/fighter-details/770b9d4813c25902,Chalid,Arrab,Die Faust,71.0,205.0,,Orthodox,7,3,0,False
+http://www.ufcstats.com/fighter-details/c136b2a8852da5bd,Akbarh,Arreola,El Caballero,70.0,155.0,71.0,Southpaw,23,10,1,False
+http://www.ufcstats.com/fighter-details/de62052b2ede65ba,Matt,Arroyo,No Regard,70.0,170.0,72.0,Orthodox,3,3,0,False
+http://www.ufcstats.com/fighter-details/61fb8098ccf81c7f,Antonio,Arroyo,,75.0,185.0,73.0,Orthodox,9,3,0,False
+http://www.ufcstats.com/fighter-details/2dea80c069847321,Gilles,Arsene,,69.0,190.0,,Southpaw,1,1,0,False
+http://www.ufcstats.com/fighter-details/91e3388e69060e69,Veta,Arteaga,,67.0,125.0,,,3,1,0,False
+http://www.ufcstats.com/fighter-details/49f78022126bf4a4,Cesar,Arzamendia,Goku,71.0,155.0,71.0,Orthodox,7,4,0,False
+http://www.ufcstats.com/fighter-details/a373085066dbfb54,Teddy,Ash,Bear,73.0,185.0,73.0,Switch,14,4,0,False
+http://www.ufcstats.com/fighter-details/b1d19449397541dc,Askar,Askarov,Bullet,66.0,125.0,67.0,Orthodox,11,0,1,False
+http://www.ufcstats.com/fighter-details/9be6020024133293,Cyril,Asker,Silverback,72.0,247.0,74.0,Orthodox,9,4,0,False
+http://www.ufcstats.com/fighter-details/06827d70c53ff0d9,Scott,Askham,,75.0,185.0,75.0,Southpaw,14,4,0,False
+http://www.ufcstats.com/fighter-details/0b31f87be71ebbb1,Ben,Askren,Funky,71.0,170.0,73.0,Orthodox,19,2,0,False
+http://www.ufcstats.com/fighter-details/399afbabc02376b5,Tom,Aspinall,,77.0,256.0,,Orthodox,7,2,0,False
+http://www.ufcstats.com/fighter-details/ff222167cce02919,Bruno,Assis,Brunao,74.0,185.0,,Orthodox,8,3,0,False
+http://www.ufcstats.com/fighter-details/d0d7160824278840,Junior,Assuncao,,69.0,145.0,72.0,Orthodox,13,4,0,False
+http://www.ufcstats.com/fighter-details/2f13e4020cea5b38,Raphael,Assuncao,,65.0,135.0,66.0,Orthodox,27,7,0,False
+http://www.ufcstats.com/fighter-details/fd7acf42bd6e7e95,Bazigit,Atajev,Volk,73.0,230.0,,Orthodox,17,1,0,False
+http://www.ufcstats.com/fighter-details/210935fd21670f6d,Rich,Attonito,The Raging Bull,70.0,170.0,72.0,Orthodox,10,5,0,False
+http://www.ufcstats.com/fighter-details/55ee431411ccf07a,Olivier,Aubin-Mercier,The Canadian Gangster,69.0,155.0,70.0,Southpaw,12,5,0,False
+http://www.ufcstats.com/fighter-details/196ed28337adc630,Pat,Audinwood,Awesomely Awesome,72.0,155.0,,Orthodox,9,2,1,False
+http://www.ufcstats.com/fighter-details/04643fd03d9159cc,Marcus,Aurelio,Maximus,70.0,155.0,74.0,Orthodox,21,10,0,False
+http://www.ufcstats.com/fighter-details/956dcac65e7b34d6,David,Avellan,,69.0,185.0,,Orthodox,2,1,0,False
+http://www.ufcstats.com/fighter-details/8753e125f4499816,Blas,Avena,The Disciple,72.0,170.0,74.0,Orthodox,7,6,0,False
+http://www.ufcstats.com/fighter-details/ba5c6eeb8ef45f5c,Levi,Avera,,73.0,170.0,,,16,10,0,False
+http://www.ufcstats.com/fighter-details/033d19259f589457,Anthony,Avila,,67.0,145.0,,,6,1,0,False
+http://www.ufcstats.com/fighter-details/4665cbf36b08193b,Chris,Avila,,70.0,145.0,72.0,Orthodox,5,4,0,False
+http://www.ufcstats.com/fighter-details/86d9dbe1bfcbade7,Julia,Avila,Raging Panda,67.0,135.0,68.0,Orthodox,7,1,0,False
+http://www.ufcstats.com/fighter-details/da603332ad41f165,Saad,Awad,Assassin,71.0,155.0,,,9,5,0,False
+http://www.ufcstats.com/fighter-details/26387c19f32dda0f,Javy,Ayala,Eye Candy,73.0,265.0,,,10,5,0,False
+http://www.ufcstats.com/fighter-details/6eaec40f724852f4,Jessin,Ayari,Abacus,72.0,155.0,73.0,Orthodox,16,5,0,False
+http://www.ufcstats.com/fighter-details/46d0a888d87d91ac,Abu,Azaitar,Gladiator,69.0,185.0,76.0,Orthodox,14,1,1,False
+http://www.ufcstats.com/fighter-details/ee18ff42063174df,Ottman,Azaitar,Bulldozer,68.0,155.0,71.0,Switch,12,0,0,False
+http://www.ufcstats.com/fighter-details/063649e21bc9d6d5,Luiz,Azeredo,,69.0,154.0,,Orthodox,15,10,0,False
+http://www.ufcstats.com/fighter-details/9bcfb40dbcd50568,Luciano,Azevedo,,75.0,161.0,,Orthodox,16,9,1,False
+http://www.ufcstats.com/fighter-details/2af2f2e26c4c0402,Hunter,Azure,,68.0,145.0,69.0,Orthodox,8,1,0,False
+http://www.ufcstats.com/fighter-details/39cc64bf0a269db9,Niklas,Backstrom,,73.0,145.0,74.0,Orthodox,8,2,0,False
+http://www.ufcstats.com/fighter-details/fd5b6598a3b70c0a,Seth,Baczynski,The Polish Pistola,75.0,170.0,74.0,Orthodox,18,11,0,False
+http://www.ufcstats.com/fighter-details/c0ab242c40decc55,Ryan,Bader,Darth,74.0,205.0,74.0,Orthodox,23,5,0,False
+http://www.ufcstats.com/fighter-details/4fcf6e0c4e0e6664,Izabela,Badurek,,65.0,115.0,,Orthodox,5,3,0,False
+http://www.ufcstats.com/fighter-details/82d4c957649faf9b,Miguel,Baeza,Caramel Thunder,74.0,170.0,74.0,Orthodox,8,0,0,False
+http://www.ufcstats.com/fighter-details/3dd92ff9fb0412b3,Ali,Bagautinov,Puncher,64.0,125.0,65.0,Orthodox,14,5,0,False
+http://www.ufcstats.com/fighter-details/e4d2564ea0e34e2b,Mehdi,Baghdad,The Sultan,73.0,155.0,75.0,Orthodox,11,4,0,False
+http://www.ufcstats.com/fighter-details/aec185309b4843d0,Siyar,Bahadurzada,The Great,71.0,170.0,73.0,Orthodox,24,8,1,False
+http://www.ufcstats.com/fighter-details/e2b8186b618b00c4,Shamar,Bailey,,69.0,155.0,75.0,Southpaw,12,5,0,False
+http://www.ufcstats.com/fighter-details/34dbcd4dbaf21a36,Jordan,Bailey,,69.0,145.0,,,6,3,0,False
+http://www.ufcstats.com/fighter-details/7d5b12de1625984e,Scott,Baker,,72.0,210.0,,,1,1,0,False
+http://www.ufcstats.com/fighter-details/898337ef520fe4d3,Bryan,Baker,The Beast,75.0,185.0,,Orthodox,16,3,0,False
+http://www.ufcstats.com/fighter-details/04b39f4e8eb59d7c,Oluwale,Bamgbose,Holy War Angel,71.0,185.0,78.0,Switch,6,4,0,False
+http://www.ufcstats.com/fighter-details/4c4b44e3cf5815b3,Stephen,Banaszak,,72.0,145.0,,,5,5,0,False
+http://www.ufcstats.com/fighter-details/5c2ce761399dc9c5,Marcin,Bandel,Bomba,70.0,155.0,70.0,Orthodox,13,4,0,False
+http://www.ufcstats.com/fighter-details/2c2caf2f2bab9df5,Humberto,Bandenay,,71.0,145.0,71.0,Southpaw,14,7,0,False
+http://www.ufcstats.com/fighter-details/9a2d3567abc02e34,Tae Hyun,Bang,The Korean Cowboy,69.0,155.0,71.0,Switch,18,10,0,False
+http://www.ufcstats.com/fighter-details/c50ea21fe9ef478d,Yohan,Banks,,,,,,2,1,0,False
+http://www.ufcstats.com/fighter-details/9ddfb3369a3b0394,Antonio,Banuelos,,65.0,135.0,63.0,Orthodox,19,7,1,False
+http://www.ufcstats.com/fighter-details/2c99576fefe53c7c,Renan,Barao,The Baron,66.0,145.0,70.0,Orthodox,36,9,0,False
+http://www.ufcstats.com/fighter-details/06dced58ca24a6bd,Junior,Barata,,70.0,170.0,,Orthodox,8,3,1,False
+http://www.ufcstats.com/fighter-details/6a740daf1b279661,Maycee,Barber,The Future,65.0,125.0,65.0,Switch,8,1,0,False
+http://www.ufcstats.com/fighter-details/a331233f597090a5,Bryan,Barberena,Bam Bam,72.0,170.0,72.0,Southpaw,14,7,0,False
+http://www.ufcstats.com/fighter-details/64a50dad704d1d49,Edson,Barboza,Junior,71.0,145.0,75.0,Orthodox,20,8,0,False
+http://www.ufcstats.com/fighter-details/b9f28e7045fdfce7,Raoni,Barcelos,,67.0,135.0,67.0,Orthodox,15,1,0,False
+http://www.ufcstats.com/fighter-details/7cdd3e5d3aa9cb39,Yan,Cabral,,71.0,155.0,73.0,Orthodox,12,3,0,False
+http://www.ufcstats.com/fighter-details/ce7871949b0ed2bf,Alvin,Cacdac,,66.0,125.0,,Orthodox,16,11,0,False
+http://www.ufcstats.com/fighter-details/7aa3d6964eff4877,Alex,Caceres,Bruce Leeroy,70.0,145.0,73.0,Southpaw,15,12,0,False
+http://www.ufcstats.com/fighter-details/b1e5bcaad32a3cac,Priscila,Cachoeira,Zombie Girl,67.0,125.0,65.0,Orthodox,9,3,0,False
+http://www.ufcstats.com/fighter-details/90d28fee0af74f2d,Travis,Calanoc,The Dark Knight,68.0,145.0,,Orthodox,5,1,0,False
+http://www.ufcstats.com/fighter-details/12f91bfa8f1f723b,Joanne,Calderwood,JoJo,66.0,125.0,65.0,Orthodox,14,4,0,False
+http://www.ufcstats.com/fighter-details/b7dc25ee40ee8334,Darrion,Caldwell,The Wolf,70.0,135.0,,,10,1,0,False
+http://www.ufcstats.com/fighter-details/98215d037be5bcb7,Cynthia,Calvillo,,64.0,115.0,64.0,Orthodox,8,1,1,False
+http://www.ufcstats.com/fighter-details/dfb965c9824425db,Joe,Camacho,,69.0,155.0,,Orthodox,13,16,3,False
+http://www.ufcstats.com/fighter-details/764342d39cdaa54a,Frank,Camacho,The Crank,70.0,170.0,73.0,Orthodox,22,8,0,False
+http://www.ufcstats.com/fighter-details/7abe471b61725980,Fabricio,Camoes,Morango,70.0,155.0,73.0,Orthodox,14,9,1,False
+http://www.ufcstats.com/fighter-details/6c2030e0a143a94b,Chris,Camozzi,,74.0,185.0,76.0,Orthodox,24,13,0,False
+http://www.ufcstats.com/fighter-details/1999ffb5cebc314f,Brian,Camozzi,Mantis,74.0,170.0,78.0,Orthodox,7,5,0,False
+http://www.ufcstats.com/fighter-details/f5585e675af7afd4,Mike,Campbell,The Beast,69.0,155.0,,Southpaw,9,4,0,False
+http://www.ufcstats.com/fighter-details/d060014a5a039829,Thomas,Campbell,,,,,,2,1,0,False
+http://www.ufcstats.com/fighter-details/784285b7ae7dd85f,Shane,Campbell,Shaolin,72.0,155.0,71.0,Orthodox,12,6,0,False
+http://www.ufcstats.com/fighter-details/31bbd46d57dfbcb7,John,Campetella,,69.0,235.0,,Orthodox,0,1,0,False
+http://www.ufcstats.com/fighter-details/db6d5f691aea3fd3,Wagner,Campos,Galeto,66.0,145.0,,Southpaw,11,4,0,False
+http://www.ufcstats.com/fighter-details/aa8dc72b3a1f761c,Derek,Campos,The Stallion,69.0,155.0,,,19,6,0,False
+http://www.ufcstats.com/fighter-details/901cddcbfa079097,Will,Campuzano,,69.0,125.0,70.0,Orthodox,13,6,0,False
+http://www.ufcstats.com/fighter-details/c2a670b22d2e196f,Aleksa,Camur,,73.0,205.0,74.0,Orthodox,6,0,0,False
+http://www.ufcstats.com/fighter-details/32be4b7f7de1c905,Chico,Camus,The King,66.0,125.0,66.0,Orthodox,14,7,0,False
+http://www.ufcstats.com/fighter-details/2a7afe14b3a0a058,Asbel,Cancio,,70.0,225.0,,,0,1,0,False
+http://www.ufcstats.com/fighter-details/760a55d5b6098cbe,Carlos,Candelario,The Cannon,68.0,125.0,67.0,Southpaw,6,0,0,False
+http://www.ufcstats.com/fighter-details/23fbe02caabcd214,Ronaldo,Candido,Pacman,66.0,125.0,,Southpaw,6,0,0,False
+http://www.ufcstats.com/fighter-details/ac45450f75d14f16,Sarah,D'alelio,The Monster,67.0,145.0,,,4,2,0,False
+http://www.ufcstats.com/fighter-details/3b6d84343579fd33,Marcos,da Matta,Parrumpinha,64.0,145.0,,,8,2,0,False
+http://www.ufcstats.com/fighter-details/b102c26727306ab6,Jussier,Formiga,Formiga,65.0,125.0,67.0,Orthodox,23,7,0,False
+http://www.ufcstats.com/fighter-details/6f7c616b98e18c29,Claudio,Silva,Hannibal,71.0,170.0,71.0,Southpaw,14,1,0,False
+http://www.ufcstats.com/fighter-details/b0bd0c5425668b8f,Henrique,da Silva,Frankenstein,75.0,205.0,76.0,Orthodox,14,5,0,False
+http://www.ufcstats.com/fighter-details/c3ded6f7155f9ea4,Alex,Da Silva,Leko,68.0,155.0,73.0,Orthodox,21,2,0,False
+http://www.ufcstats.com/fighter-details/9d19d9e4aa2662e8,Nicolas,Dalby,Lokomotivo,71.0,170.0,74.0,Orthodox,18,3,1,False
+http://www.ufcstats.com/fighter-details/23725c826c481e7f,Paul,Daley,Semtex,69.0,170.0,76.0,Orthodox,31,11,2,False
+http://www.ufcstats.com/fighter-details/ddbd0d6259ce57cc,Dave,Dalgliesh,,74.0,205.0,,Orthodox,30,19,2,False
+http://www.ufcstats.com/fighter-details/6cd3dfc54f01287f,Richard,Dalton,,73.0,205.0,,Orthodox,4,3,1,False
+http://www.ufcstats.com/fighter-details/e50cd77732d39967,Aisling,Daly,Ais the Bash,62.0,115.0,64.0,Orthodox,16,6,0,False
+http://www.ufcstats.com/fighter-details/6e9b5c74c0860deb,Marko,Damiani,,72.0,170.0,,,0,2,0,False
+http://www.ufcstats.com/fighter-details/a20d7dfaba74c067,Rodrigo,Damm,,67.0,155.0,71.0,Orthodox,12,9,0,False
+http://www.ufcstats.com/fighter-details/033343da4c0cff8a,Carina,Damm,Beauty But the Beast,64.0,135.0,,,17,6,0,False
+http://www.ufcstats.com/fighter-details/9eef6584fab21fbb,Cindy,Dandois,Battle Cat,67.0,135.0,68.0,Orthodox,8,3,0,False
+http://www.ufcstats.com/fighter-details/8614b7134913f5d5,Jarjis,Danho,Man Mountain,75.0,265.0,74.0,Orthodox,6,1,1,False
+http://www.ufcstats.com/fighter-details/fccb0fee256b7b4d,Raymond,Daniels,,74.0,185.0,,Southpaw,0,1,0,False
+http://www.ufcstats.com/fighter-details/55a80a9365bc107d,Marques,Daniels,,,155.0,,,5,5,0,False
+http://www.ufcstats.com/fighter-details/8dc46e9a7895ce1a,Alexandre,Dantas,Cafe,74.0,238.0,,Orthodox,0,2,0,False
+http://www.ufcstats.com/fighter-details/676a2e5ec4d7338c,Eduardo,Dantas,Dudu,70.0,135.0,,,20,4,0,False
+http://www.ufcstats.com/fighter-details/86f582852a5b240a,Mac,Danzig,,68.0,155.0,70.0,Orthodox,22,12,1,False
+http://www.ufcstats.com/fighter-details/d2fa318f34d0aadc,Karen,Darabedyan,,67.0,155.0,68.0,Orthodox,9,4,0,False
+http://www.ufcstats.com/fighter-details/08af939f41b5a57b,Beneil,Dariush,,70.0,155.0,72.0,Southpaw,18,4,1,False
+http://www.ufcstats.com/fighter-details/a683f9ddb70aa4bd,Sean,Daugherty,,72.0,175.0,,,0,2,0,False
+http://www.ufcstats.com/fighter-details/d6c0cdd7e467c440,Kyle,Daukaus,,75.0,185.0,76.0,Southpaw,6,0,0,False
+http://www.ufcstats.com/fighter-details/ee457ef1e1c326c1,Ben,Earwood,,68.0,170.0,,Orthodox,12,3,0,False
+http://www.ufcstats.com/fighter-details/5713c1d2fac539ac,Cody,East,The Freight Train,75.0,245.0,74.0,Orthodox,12,3,0,False
+http://www.ufcstats.com/fighter-details/05866d8c3a321856,Marvin,Eastman,The Beastman,69.0,185.0,73.0,Orthodox,17,14,1,False
+http://www.ufcstats.com/fighter-details/bc7230f231701d66,Mike,Easton,The Hulk,66.0,135.0,70.0,Southpaw,13,5,0,False
+http://www.ufcstats.com/fighter-details/4acb99524a9a81ab,Maurice,Eazel,,67.0,135.0,,,7,15,0,False
+http://www.ufcstats.com/fighter-details/ec421d5de0aea624,Vincent,Eazelle,The Real Deal,71.0,155.0,,,9,2,0,False
+http://www.ufcstats.com/fighter-details/a5b0bd216d8ba84e,Ross,Ebanez,The Boss,69.0,154.0,,Southpaw,20,8,0,False
+http://www.ufcstats.com/fighter-details/32ba186f4b0e3267,Brian,Ebersole,Bad Boy,72.0,170.0,73.0,Southpaw,51,17,1,False
+http://www.ufcstats.com/fighter-details/40ff198adda94b9f,Mark,Eddiva,,68.0,145.0,68.0,Orthodox,6,3,0,False
+http://www.ufcstats.com/fighter-details/f2688492b9a525a3,Frankie,Edgar,The Answer,66.0,145.0,68.0,Orthodox,22,8,1,False
+http://www.ufcstats.com/fighter-details/37e03538c960bac6,Abdul-Kerim,Edilov,,74.0,205.0,78.0,Orthodox,17,4,0,False
+http://www.ufcstats.com/fighter-details/528c24b99fbaab79,Johnny,Eduardo,,67.0,135.0,71.0,Orthodox,28,12,0,False
+http://www.ufcstats.com/fighter-details/5f04e3d58d9ce982,Yves,Edwards,,69.0,155.0,73.0,Southpaw,42,22,1,False
+http://www.ufcstats.com/fighter-details/e56daf7725a0b5ab,Justin,Edwards,Fast Eddy,70.0,155.0,70.0,Orthodox,9,5,0,False
+http://www.ufcstats.com/fighter-details/f1fac969a1d70b08,Leon,Edwards,Rocky,74.0,170.0,74.0,Southpaw,18,3,0,False
+http://www.ufcstats.com/fighter-details/ef44e4ea9050f2ea,Te,Edwards,Tango,68.0,155.0,72.0,Orthodox,6,3,0,False
+http://www.ufcstats.com/fighter-details/e6904a03a66e711d,Adli,Edwards,Sunshine,,145.0,,,6,1,0,False
+http://www.ufcstats.com/fighter-details/eae4aec1a5a8ff01,Tom,Egan,,71.0,170.0,,Orthodox,5,3,0,False
+http://www.ufcstats.com/fighter-details/27fc9218a3653e3c,Justin,Eilers,The Hammer,73.0,235.0,,Orthodox,19,7,1,False
+http://www.ufcstats.com/fighter-details/0577808d22dfe79c,Jon Olav,Einemo,The Viking,78.0,253.0,,Orthodox,6,3,0,False
+http://www.ufcstats.com/fighter-details/58bc81376286b3d3,Per,Eklund,,70.0,155.0,72.0,Orthodox,14,5,1,False
+http://www.ufcstats.com/fighter-details/22d80fb67e50ab0b,John,Elam,,,,,,2,0,0,False
+http://www.ufcstats.com/fighter-details/e873203fd50542f6,John Paul,Elias,,76.0,205.0,,,3,1,0,False
+http://www.ufcstats.com/fighter-details/e295b96f135d758a,Saul,Elizondo,,67.0,135.0,,,6,8,0,False
+http://www.ufcstats.com/fighter-details/92a9aa9c93192871,Darren,Elkins,The Damage,70.0,145.0,71.0,Orthodox,25,8,0,False
+http://www.ufcstats.com/fighter-details/6224e8d0a34264eb,Edward,Faaloloto,,,155.0,70.0,,2,3,0,False
+http://www.ufcstats.com/fighter-details/78114b7199cef90c,Urijah,Faber,The California Kid,66.0,135.0,67.0,Orthodox,35,11,0,False
+http://www.ufcstats.com/fighter-details/8c020156779f7888,Melinda,Fabian,,66.0,125.0,66.0,,4,4,2,False
+http://www.ufcstats.com/fighter-details/40389d39a92f5bfa,Wagnney,Fabiano,The Silencer,66.0,145.0,69.0,Southpaw,14,3,0,False
+http://www.ufcstats.com/fighter-details/e17ac6410c8377f4,Bartosz,Fabinski,The Butcher,72.0,170.0,75.0,Orthodox,14,3,0,False
+http://www.ufcstats.com/fighter-details/453ee00c3e1ae9dd,Ron,Faircloth,,69.0,205.0,,Orthodox,33,20,0,False
+http://www.ufcstats.com/fighter-details/adea9f0090aa8e14,Jason,Fairn,,73.0,230.0,,,4,5,0,False
+http://www.ufcstats.com/fighter-details/862b0b3375aa4b6e,Zarah,Fairn,Infinite,68.0,145.0,72.0,Orthodox,6,4,0,False
+http://www.ufcstats.com/fighter-details/d58478ded5534695,Maiquel,Falcao,Big Rig,71.0,185.0,,Orthodox,28,4,0,False
+http://www.ufcstats.com/fighter-details/91d73ee59347ac16,Brodie,Farber,,73.0,170.0,,Orthodox,14,6,0,False
+http://www.ufcstats.com/fighter-details/04e9955f33e0c267,Joao Paulo,Faria,,69.0,155.0,,,1,1,0,False
+http://www.ufcstats.com/fighter-details/27b164b0d1833df0,Kalindra,Faria,,67.0,125.0,,Switch,18,8,1,False
+http://www.ufcstats.com/fighter-details/49c7236c737d7e59,Chance,Farrar,,69.0,145.0,,Southpaw,8,3,0,False
+http://www.ufcstats.com/fighter-details/f89e6e66b9b112de,Rico,Farrington,The Triggerman,76.0,170.0,79.0,Southpaw,7,2,0,False
+http://www.ufcstats.com/fighter-details/9c42a0de8e012870,Kelly,Faszholz,,68.0,135.0,67.0,Orthodox,3,2,0,False
+http://www.ufcstats.com/fighter-details/5af26b3201690d29,Rodney,Faverus,,72.0,215.0,,Southpaw,25,19,3,False
+http://www.ufcstats.com/fighter-details/e5010b1b94ca5755,Paul,Felder,The Irish Dragon,71.0,155.0,70.0,Orthodox,17,5,0,False
+http://www.ufcstats.com/fighter-details/a2ea77e974c5889f,Carlos,Felipe,Boi,72.0,245.0,,,8,0,0,False
+http://www.ufcstats.com/fighter-details/954e3f4e2b0e6510,JP,Felty,,,170.0,,,1,2,0,False
+http://www.ufcstats.com/fighter-details/27541033b97c076d,Kevin,Ferguson,Kimbo Slice,74.0,235.0,,Orthodox,5,2,0,False
+http://www.ufcstats.com/fighter-details/15f4550e017f6c7d,Rhadi,Ferguson,,67.0,205.0,,,3,0,0,False
+http://www.ufcstats.com/fighter-details/22a92d7f62195791,Tony,Ferguson,El Cucuy,71.0,155.0,76.0,Orthodox,26,3,0,False
+http://www.ufcstats.com/fighter-details/b0f316c60f8d3b47,Josh,Ferguson,Taz,65.0,125.0,66.0,Orthodox,7,5,0,False
+http://www.ufcstats.com/fighter-details/979f7edbb6980b0d,CJ,Fernandes,,74.0,170.0,,,14,8,3,False
+http://www.ufcstats.com/fighter-details/cbc071cb20ea59c7,Bibiano,Fernandes,,67.0,139.0,,Orthodox,10,3,0,False
+http://www.ufcstats.com/fighter-details/fcd8b623892b9a10,James,Gabert,,,178.0,,,6,4,0,False
+http://www.ufcstats.com/fighter-details/fe98f86284a6eeb3,Gustavo,Gabriel,,66.0,125.0,,Orthodox,13,1,0,False
+http://www.ufcstats.com/fighter-details/ec34349e7dffcde7,Claudia,Gadelha,Claudinha,64.0,115.0,63.0,Orthodox,17,4,0,False
+http://www.ufcstats.com/fighter-details/a7a79b8efbceaaac,Alavutdin,Gadjiev,,74.0,185.0,,Orthodox,18,12,1,False
+http://www.ufcstats.com/fighter-details/9e8f6c728eb01124,Justin,Gaethje,The Highlight,71.0,155.0,70.0,Orthodox,21,2,0,False
+http://www.ufcstats.com/fighter-details/837d30395faca41e,Sheila,Gaff,The German Tank,65.0,135.0,62.0,Orthodox,10,6,1,False
+http://www.ufcstats.com/fighter-details/a54660deb6a8489c,Muin,Gafurov,Tajik,67.0,135.0,,,16,2,0,False
+http://www.ufcstats.com/fighter-details/b8592b4a383696cd,Mitch,Gagnon,,65.0,135.0,65.0,Southpaw,12,5,0,False
+http://www.ufcstats.com/fighter-details/8e6cfbd455f0f9c2,Brandon,Gaines,,75.0,185.0,,,5,16,0,False
+http://www.ufcstats.com/fighter-details/06dc1a58663579d2,Travis,Galbraith,The Gladiator,72.0,170.0,,Orthodox,18,7,0,False
+http://www.ufcstats.com/fighter-details/0876d21328cf4a45,Dave,Galera,Scarecrow,71.0,135.0,,Orthodox,5,1,0,False
+http://www.ufcstats.com/fighter-details/8a1b4330c7957961,Zelg,Galesic,Benkei,74.0,185.0,,Orthodox,10,6,0,False
+http://www.ufcstats.com/fighter-details/9e50097a89442158,Mickey,Gall,,74.0,170.0,74.0,Switch,6,2,0,False
+http://www.ufcstats.com/fighter-details/96706c75a2b14164,Daniel,Gallemore,Big Kansas,77.0,265.0,,,7,3,0,False
+http://www.ufcstats.com/fighter-details/cc81c92fe2254935,Tom,Gallicchio,Da Tank,70.0,170.0,73.0,Southpaw,19,11,0,False
+http://www.ufcstats.com/fighter-details/7e654edcddd71550,Turrell,Galloway,,63.0,145.0,,,5,2,0,False
+http://www.ufcstats.com/fighter-details/ad3fdba28a7540cf,Eric,Galvan,,,155.0,,,0,0,0,False
+http://www.ufcstats.com/fighter-details/45fe6765c56d8018,Andre,Galvao,,67.0,168.0,,Orthodox,5,2,0,False
+http://www.ufcstats.com/fighter-details/e15d0a2519d6a0b5,Marcos,Galvao,Louro,67.0,135.0,,Orthodox,11,5,1,False
+http://www.ufcstats.com/fighter-details/289a3b69b85da7cd,Lucas,Gamaza,,,170.0,,,5,2,0,False
+http://www.ufcstats.com/fighter-details/10559c53de0b950e,Joey,Gambino,The Raging Warrior,67.0,145.0,,Orthodox,9,2,0,False
+http://www.ufcstats.com/fighter-details/cc6f9d1e89f3449a,Manvel,Gamburyan,The Anvil,65.0,135.0,67.0,Orthodox,18,11,0,False
+http://www.ufcstats.com/fighter-details/0d980975001ae3d8,Shamil,Gamzatov,,74.0,205.0,76.0,Orthodox,14,0,0,False
+http://www.ufcstats.com/fighter-details/41904fc4d3f5bffc,Ariel,Gandulla,,71.0,205.0,,Orthodox,6,6,0,False
+http://www.ufcstats.com/fighter-details/787bb1f087ccff8a,Ciryl,Gane,Bon Gamin,76.0,245.0,81.0,Orthodox,6,0,0,False
+http://www.ufcstats.com/fighter-details/bf12aca029bfcc47,Keith,Hackney,The Giant Killer,71.0,200.0,,Sideways,2,2,0,False
+http://www.ufcstats.com/fighter-details/99793cf88c5adeee,Steve,Hadsel,,68.0,170.0,,,3,0,0,False
+http://www.ufcstats.com/fighter-details/38c626ca912c7bac,Damir,Hadzovic,The Bosnian Bomber,69.0,155.0,70.0,Orthodox,13,6,0,False
+http://www.ufcstats.com/fighter-details/219a254e15d60135,Tim,Hague,The Trashing Machine,76.0,260.0,76.0,Orthodox,13,5,0,False
+http://www.ufcstats.com/fighter-details/4955c524c2a71469,Yazan,Hajeh,Yazzle Dazzle,69.0,145.0,73.0,Orthodox,6,1,0,False
+http://www.ufcstats.com/fighter-details/206a7d47eb62170e,Stoney,Hale,The Skuller,72.0,,,,4,2,0,False
+http://www.ufcstats.com/fighter-details/439d4bbefd4e6940,Kevin,Haley,The North Woods Nightmare,74.0,205.0,,,6,4,0,False
+http://www.ufcstats.com/fighter-details/18524b46c570730b,Mark,Hall,,72.0,190.0,,Orthodox,5,6,0,False
+http://www.ufcstats.com/fighter-details/65578a75fa7900e3,Uriah,Hall,Prime Time,72.0,185.0,79.0,Orthodox,16,9,0,False
+http://www.ufcstats.com/fighter-details/8866c6f509c19089,Ryan,Hall,The Wizard,70.0,145.0,70.0,Southpaw,8,1,0,False
+http://www.ufcstats.com/fighter-details/8a8a84b743ae7699,Dennis,Hallman,Superman,69.0,155.0,72.0,Orthodox,67,14,2,False
+http://www.ufcstats.com/fighter-details/a3be148af5c7b088,Piotr,Hallmann,Pletwal,69.0,155.0,71.0,Orthodox,15,5,0,False
+http://www.ufcstats.com/fighter-details/bad28b7b34f334de,Tony,Halme,,75.0,300.0,,Orthodox,0,4,0,False
+http://www.ufcstats.com/fighter-details/e763679f15326ae1,Brandon,Halsey,Bull,72.0,185.0,,,9,3,0,False
+http://www.ufcstats.com/fighter-details/88c8f47241d90040,John,Halverson,The Hurricane,69.0,155.0,,Southpaw,16,7,0,False
+http://www.ufcstats.com/fighter-details/165c244bcca3ed26,Seohee,Ham,,62.0,115.0,62.0,Southpaw,16,8,0,False
+http://www.ufcstats.com/fighter-details/c3c23c99477c041b,Frank,Hamaker,,,,,,1,0,0,False
+http://www.ufcstats.com/fighter-details/1b4d6971bb18b82c,Kazuhiro,Hamanaka,,72.0,185.0,,Southpaw,5,7,1,False
+http://www.ufcstats.com/fighter-details/98b80a717b9bda17,Matt,Hamill,The Hammer,73.0,205.0,76.0,Orthodox,12,5,0,False
+http://www.ufcstats.com/fighter-details/7ada6ea792a34424,Jeremy,Hamilton,Hawk,,185.0,,,8,1,0,False
+http://www.ufcstats.com/fighter-details/c727c7d31c50c4cf,Anthony,Hamilton,Freight Train,77.0,260.0,76.0,Orthodox,15,9,0,False
+http://www.ufcstats.com/fighter-details/7da5839b223f3728,CJ,Hamilton,The Autobot,67.0,125.0,68.0,Switch,11,4,0,False
+http://www.ufcstats.com/fighter-details/23459ee7e373b98f,Jared,Hamman,The Messenger,75.0,185.0,75.0,Orthodox,13,6,0,False
+http://www.ufcstats.com/fighter-details/1f77fce698e80488,James,Hammortree,The Sledge,75.0,185.0,,Orthodox,6,2,0,False
+http://www.ufcstats.com/fighter-details/24e9d6b0a24cff9d,Dean,Hancock,The Hammer,,155.0,,,2,1,0,False
+http://www.ufcstats.com/fighter-details/59279a7c978f7da0,Al,Iaquinta,Raging,70.0,155.0,70.0,Orthodox,14,6,1,False
+http://www.ufcstats.com/fighter-details/c3218c810959d279,Khadis,Ibragimov,,75.0,205.0,78.0,Orthodox,8,2,0,False
+http://www.ufcstats.com/fighter-details/4565d435005319c0,Minoki,Ichihara,,67.0,178.0,,Orthodox,0,1,0,False
+http://www.ufcstats.com/fighter-details/82a5152216251682,Dan,Ige,Fifty K,67.0,145.0,71.0,Orthodox,13,2,0,False
+http://www.ufcstats.com/fighter-details/7b6ce3a9460565b5,Valeri,Ignatov,,69.0,170.0,,Orthodox,1,2,0,False
+http://www.ufcstats.com/fighter-details/df9e9c1f65805d29,Sergey,Ignatov,,69.0,210.0,,Orthodox,0,1,0,False
+http://www.ufcstats.com/fighter-details/263ebd4a669e1e98,Fabiano,Iha,,68.0,155.0,,Orthodox,9,5,0,False
+http://www.ufcstats.com/fighter-details/81f38d1640c4e70d,Seichi,Ikemoto,,71.0,168.0,,Orthodox,20,17,5,False
+http://www.ufcstats.com/fighter-details/b71667c778b6d9e5,Mikhail,Iloukhine,,69.0,205.0,,Orthodox,30,11,1,False
+http://www.ufcstats.com/fighter-details/7f0f171414d0a287,Zelim,Imadaev,,72.0,170.0,76.0,Orthodox,8,2,0,False
+http://www.ufcstats.com/fighter-details/2ce6541127b0e232,Yusuke,Imamura,,68.0,220.0,,Orthodox,2,6,0,False
+http://www.ufcstats.com/fighter-details/a4dd5c9a75763295,Masakazu,Imanari,,64.0,139.0,,Southpaw,24,9,2,False
+http://www.ufcstats.com/fighter-details/4908c5ee68a50ee5,Brad,Imes,Hillbilly Heartthrob,79.0,265.0,,Orthodox,13,7,0,False
+http://www.ufcstats.com/fighter-details/d5b7fac960e58920,Chris,Indich,The Savage,70.0,170.0,73.0,,5,3,0,False
+http://www.ufcstats.com/fighter-details/f0a381ba65d2a933,Chris,Inman,,,,,,1,0,0,False
+http://www.ufcstats.com/fighter-details/e7fe5315b1efeb92,Guto,Inocente,,75.0,205.0,77.0,Orthodox,6,4,0,False
+http://www.ufcstats.com/fighter-details/0cf935519d439ba6,Enson,Inoue,Yamato Damashii,70.0,210.0,,Orthodox,12,8,0,False
+http://www.ufcstats.com/fighter-details/37a6c95201592fea,Egan,Inoue,,69.0,190.0,,Southpaw,13,8,0,False
+http://www.ufcstats.com/fighter-details/b5882371e2a3900d,Katsuya,Inoue,,69.0,168.0,,Southpaw,19,9,4,False
+http://www.ufcstats.com/fighter-details/a61a0cd2829e5d4e,Takeshi,Inoue,Lion,68.0,145.0,,,20,5,0,False
+http://www.ufcstats.com/fighter-details/199eb7cf6ae90294,Naoki,Inoue,,69.0,125.0,71.0,Orthodox,11,1,0,False
+http://www.ufcstats.com/fighter-details/43a59ce3bb40449e,Mizuki,Inoue,,63.0,125.0,65.0,Orthodox,14,5,0,False
+http://www.ufcstats.com/fighter-details/1e75e6c9de99fa76,Jorge,Interiano,,73.0,205.0,,,3,3,0,False
+http://www.ufcstats.com/fighter-details/05a0556072931f01,Jason,Ireland,The Irish Tornado,69.0,161.0,,Southpaw,18,8,1,False
+http://www.ufcstats.com/fighter-details/a7f4d0902bb64092,James,Irvin,The Sandman,74.0,205.0,75.0,Orthodox,15,9,0,False
+http://www.ufcstats.com/fighter-details/b4eeac608fc82f88,Yves,Jabouin,Tiger,67.0,135.0,68.0,Orthodox,20,11,0,False
+http://www.ufcstats.com/fighter-details/13b2f59210dda9cc,Kevin,Jackson,,70.0,199.0,,Switch,4,2,0,False
+http://www.ufcstats.com/fighter-details/ce783bf73b5131f9,Eugene,Jackson,The Wolf,68.0,185.0,,Orthodox,15,9,1,False
+http://www.ufcstats.com/fighter-details/ffc088e64fab57e9,Rampage,Jackson,Rampage,73.0,205.0,73.0,Orthodox,36,11,0,False
+http://www.ufcstats.com/fighter-details/ad32471f01e7b1a5,Jeremy,Jackson,Scorpion,70.0,170.0,,Orthodox,9,5,0,False
+http://www.ufcstats.com/fighter-details/29af297d9f1de0f8,Damon,Jackson,The Leech,71.0,145.0,71.0,Switch,9,1,1,False
+http://www.ufcstats.com/fighter-details/56c5132870a526d5,Kenyon,Jackson,,72.0,185.0,,,4,3,0,False
+http://www.ufcstats.com/fighter-details/0641c21bec209472,Mike,Jackson,The Truth,74.0,170.0,,Orthodox,1,1,0,False
+http://www.ufcstats.com/fighter-details/ca8da445dfa82d56,Jason,Jackson,Jah-Son,73.0,170.0,78.0,Orthodox,7,2,0,False
+http://www.ufcstats.com/fighter-details/cc1a8b4b38b92c6d,Montel,Jackson,Quik,70.0,135.0,75.0,Southpaw,9,1,0,False
+http://www.ufcstats.com/fighter-details/ba17afef01ed78b6,Eric,Jacob,,,155.0,,,1,9,0,False
+http://www.ufcstats.com/fighter-details/e4277e87a789d687,Dustin,Jacoby,,76.0,185.0,78.0,Orthodox,6,3,0,False
+http://www.ufcstats.com/fighter-details/1ea8df62b3f8fea6,Justin,James,,70.0,155.0,,Orthodox,13,7,0,False
+http://www.ufcstats.com/fighter-details/a34fecf2f4e5a317,Nate,James,,72.0,185.0,,,13,7,1,False
+http://www.ufcstats.com/fighter-details/7dda2cf308f24a02,Virna,Jandiroba,Carcara,63.0,115.0,64.0,Orthodox,15,1,0,False
+http://www.ufcstats.com/fighter-details/b59037262c8fe060,Ryan,Janes,,75.0,185.0,76.0,Orthodox,10,3,0,False
+http://www.ufcstats.com/fighter-details/8f7380fb0916dc77,Josh,Janousek,,71.0,185.0,73.0,Orthodox,8,1,0,False
+http://www.ufcstats.com/fighter-details/335ad945324c3a2e,Dave,Jansen,,69.0,155.0,73.0,Orthodox,15,3,0,False
+http://www.ufcstats.com/fighter-details/805ad1801eb26abb,Jaime,Jara,El Cucui,73.0,205.0,,Southpaw,32,10,0,False
+http://www.ufcstats.com/fighter-details/99d5cf1eda8b25c1,Gigo,Jara,The Little Animal,69.0,145.0,,,6,9,0,False
+http://www.ufcstats.com/fighter-details/b9d0fd83bb8a147a,Keith,Jardine,The Dean of Mean,74.0,185.0,76.0,Orthodox,17,10,2,False
+http://www.ufcstats.com/fighter-details/64959f90b6dd9759,Brock,Jardine,The Machine,71.0,170.0,73.0,Orthodox,9,3,0,False
+http://www.ufcstats.com/fighter-details/32e8e0e8498f03c2,Josh,Jarvis,,,,,,1,3,0,False
+http://www.ufcstats.com/fighter-details/b71ce838b01f2cad,Rony,Jason,,67.0,145.0,70.0,Orthodox,15,7,0,False
+http://www.ufcstats.com/fighter-details/0e8744ded08ee5fb,Louis,Jauregui,,67.0,170.0,,,4,2,0,False
+http://www.ufcstats.com/fighter-details/b180f05acb24d430,Patrick,Kaase,Kamikaze,69.0,185.0,,,1,2,0,False
+http://www.ufcstats.com/fighter-details/c1ea9d56cd953586,Emily,Peters Kagan,,63.0,115.0,66.0,,3,3,0,False
+http://www.ufcstats.com/fighter-details/2525a853486ee670,Sirwan,Kakai,Zohan,65.0,135.0,66.0,Orthodox,12,3,0,False
+http://www.ufcstats.com/fighter-details/304fcd812f12c589,Geza,Kalman,,73.0,200.0,,,4,9,0,False
+http://www.ufcstats.com/fighter-details/9336e86cfd4ceaa1,Bryson,Kamaka,,71.0,170.0,,Orthodox,12,18,1,False
+http://www.ufcstats.com/fighter-details/8b69839f3555a67b,Martin,Kampmann,The Hitman,72.0,170.0,72.0,Orthodox,20,7,0,False
+http://www.ufcstats.com/fighter-details/efd2b3e9bb7965a4,Bharat,Kandare,Daring,67.0,135.0,72.0,Orthodox,5,3,0,False
+http://www.ufcstats.com/fighter-details/eda579d906cf0ca2,Hiromitsu,Kanehara,,70.0,200.0,,Orthodox,19,24,3,False
+http://www.ufcstats.com/fighter-details/f3a078277b3b8ff4,Masanori,Kanehara,,67.0,135.0,67.0,Orthodox,25,13,5,False
+http://www.ufcstats.com/fighter-details/5345f86680378fc1,Ken,Kaneko,,72.0,161.0,,Orthodox,0,3,0,False
+http://www.ufcstats.com/fighter-details/3c241737a6069b9f,Denis,Kang,,71.0,185.0,77.0,Orthodox,34,15,2,False
+http://www.ufcstats.com/fighter-details/a7897d200692ab64,Kyung Ho,Kang,Mr. Perfect,69.0,135.0,73.0,Orthodox,17,8,0,False
+http://www.ufcstats.com/fighter-details/5d1b7e3dd9e11074,Manel,Kape,Prodigio,66.0,125.0,,,15,4,0,False
+http://www.ufcstats.com/fighter-details/5669b828e7e11329,David,Kaplan,Diamond,67.0,155.0,,Orthodox,3,4,0,False
+http://www.ufcstats.com/fighter-details/853eb0dd5c0e2149,Kai,Kara-France,Don't Blink,64.0,125.0,69.0,Orthodox,21,8,0,False
+http://www.ufcstats.com/fighter-details/43292ecf0e72c143,Georgi,Karakhanyan,Insane,68.0,145.0,,,24,4,1,False
+http://www.ufcstats.com/fighter-details/e361e5c858af6ff1,Alex,Karalexis,The Assassin,68.0,155.0,66.0,Orthodox,10,6,0,False
+http://www.ufcstats.com/fighter-details/257b0c8d6f199895,Impa,Kasanganay,Tshilobo,71.0,185.0,75.0,Orthodox,5,0,0,False
+http://www.ufcstats.com/fighter-details/6e7506127408aa9e,Nadia,Kassem,187,65.0,125.0,66.0,Southpaw,5,2,0,False
+http://www.ufcstats.com/fighter-details/3058888c33149a53,Yusuke,Kasuya,,67.0,155.0,67.0,Southpaw,9,3,2,False
+http://www.ufcstats.com/fighter-details/542db012217ecb83,Tetsuji,Kato,,,155.0,,Orthodox,20,10,0,False
+http://www.ufcstats.com/fighter-details/ebf1c247b2cba375,Hisaki,Kato,,72.0,185.0,,,8,2,0,False
+http://www.ufcstats.com/fighter-details/7b433309b0fd12aa,Brad,Katona,Superman,66.0,135.0,64.0,Orthodox,9,2,0,False
+http://www.ufcstats.com/fighter-details/751de04455cfaac0,Calvin,Kattar,,71.0,145.0,72.0,Orthodox,20,4,0,False
+http://www.ufcstats.com/fighter-details/36df8e119aec6175,Sarah,Kaufman,,65.0,135.0,67.0,Orthodox,17,4,0,False
+http://www.ufcstats.com/fighter-details/93fe7332d16c6ad9,Tom,Aaron,,,155.0,,,5,3,0,False
+http://www.ufcstats.com/fighter-details/15df64c02b6b0fde,Danny,Abbadi,The Assassin,71.0,155.0,,Orthodox,4,6,0,False
+http://www.ufcstats.com/fighter-details/b361180739bed4b0,David,Abbott,Tank,72.0,265.0,,Switch,10,14,0,False
+http://www.ufcstats.com/fighter-details/2f5cbecbbe18bac4,Shamil,Abdurakhimov,Abrek,75.0,235.0,76.0,Orthodox,20,5,0,False
+http://www.ufcstats.com/fighter-details/c0ed7b208197e8de,Hiroyuki,Abe,Abe Ani,66.0,145.0,,Orthodox,8,14,3,False
+http://www.ufcstats.com/fighter-details/5140122c3eecd307,Daichi,Abe,,71.0,170.0,71.0,Orthodox,6,2,0,False
+http://www.ufcstats.com/fighter-details/c9f6385af6df66d7,Papy,Abedi,Makambo,71.0,185.0,74.0,Southpaw,9,3,0,False
+http://www.ufcstats.com/fighter-details/aa6e591c2a2cdecd,Ricardo,Abreu,Demente,71.0,185.0,73.0,Orthodox,5,3,0,False
+http://www.ufcstats.com/fighter-details/7279654c7674cd24,Klidson,Abreu,White Bear,72.0,205.0,74.0,Orthodox,15,4,0,False
+http://www.ufcstats.com/fighter-details/1c5879330d42255f,Daniel,Acacio,,68.0,180.0,,Orthodox,26,12,0,False
+http://www.ufcstats.com/fighter-details/2620f3eb21c79614,Scott,Adams,,72.0,225.0,,Southpaw,8,1,0,False
+http://www.ufcstats.com/fighter-details/83b00f7597e5ac83,Juan,Adams,The Kraken,77.0,265.0,80.0,Orthodox,5,3,0,False
+http://www.ufcstats.com/fighter-details/a77633a989013265,Anthony,Adams,Sugafoot,72.0,185.0,77.0,Orthodox,7,1,0,False
+http://www.ufcstats.com/fighter-details/1338e2c7480bdf9e,Israel,Adesanya,The Last Stylebender,76.0,185.0,80.0,Switch,19,0,0,True
+http://www.ufcstats.com/fighter-details/0e9869d712e81f8f,Sam,Adkins,The Experience,75.0,225.0,,Orthodox,7,20,2,False
+http://www.ufcstats.com/fighter-details/ebc5af72ad5a28cb,Nick,Agallar,,68.0,155.0,,Orthodox,24,6,0,False
+http://www.ufcstats.com/fighter-details/a08ddd04eaffd81d,Mariya,Agapova,,68.0,125.0,,Southpaw,6,1,0,False
+http://www.ufcstats.com/fighter-details/44aa652b181bcf68,Marcelo,Aguiar,,70.0,170.0,,Orthodox,2,3,1,False
+http://www.ufcstats.com/fighter-details/6cadc0a0ba7dc015,Edwin,Aguilar,Tigre,70.0,185.0,,,22,16,0,False
+http://www.ufcstats.com/fighter-details/8f382b3baa954d2a,Jessica,Aguilar,Jag,63.0,115.0,63.0,Orthodox,20,8,0,False
+http://www.ufcstats.com/fighter-details/cf946e03ba2e7666,Kevin,Aguilar,Angel of Death,67.0,145.0,73.0,Orthodox,17,3,0,False
+http://www.ufcstats.com/fighter-details/9e3dbb9c68ed5d1a,Mike,Aina,Iron,69.0,155.0,,Orthodox,12,6,1,False
+http://www.ufcstats.com/fighter-details/2eada40ac8801559,Hitomi,Akano,Girlfight Monster,64.0,135.0,,Southpaw,18,8,0,False
+http://www.ufcstats.com/fighter-details/16690d100f995f8f,Omari,Akhmedov,Wolverine,72.0,185.0,73.0,Orthodox,20,4,1,False
+http://www.ufcstats.com/fighter-details/b0550072e5f0afa7,Yoshihiro,Akiyama,,70.0,170.0,73.0,Orthodox,14,6,0,False
+http://www.ufcstats.com/fighter-details/1fc64507a0cb38cf,Rostem,Akman,Kurdimus Prime,70.0,170.0,72.0,Switch,6,2,0,False
+http://www.ufcstats.com/fighter-details/38b50fd1e1b5b656,Razak,Al-Hassan,,74.0,205.0,,Orthodox,11,5,0,False
+http://www.ufcstats.com/fighter-details/1cf1310684a841f5,Mostapha,Al-Turk,,74.0,245.0,77.0,Orthodox,6,6,0,False
+http://www.ufcstats.com/fighter-details/7578cc6bd750206b,Herdem,Alacabek,,74.0,205.0,75.0,Orthodox,5,1,0,False
+http://www.ufcstats.com/fighter-details/2144954270be834d,Javi,Alanis,,66.0,135.0,,,0,3,0,False
+http://www.ufcstats.com/fighter-details/1897b7b913736a7c,Heili,Alateng,The Mongolian Knight,65.0,135.0,66.0,Orthodox,14,7,1,False
+http://www.ufcstats.com/fighter-details/9b28292abe3166d5,Brett,Albee,,,225.0,,,3,1,0,False
+http://www.ufcstats.com/fighter-details/7bd94b60d7521e4a,John,Albert,Prince,68.0,135.0,68.0,Orthodox,7,5,0,False
+http://www.ufcstats.com/fighter-details/c482c8605455a213,Junior,Albini,Baby,75.0,264.0,74.0,Orthodox,14,6,0,False
+http://www.ufcstats.com/fighter-details/184b955181bdef52,Wes,Albritton,,70.0,188.0,,Orthodox,0,1,0,False
+http://www.ufcstats.com/fighter-details/e76d9f656ceb82ab,Alexandra,Albu,Stitch,62.0,115.0,63.0,Orthodox,7,2,0,False
+http://www.ufcstats.com/fighter-details/dd1b90eea08887f6,Israel,Albuquerque,,,185.0,,Orthodox,0,3,0,False
+http://www.ufcstats.com/fighter-details/39f62b833e4cf126,Juan,Alcain,,,,,,1,2,0,False
+http://www.ufcstats.com/fighter-details/2f95a3c6d58b2aad,Iuri,Alcantara,Marajo,69.0,135.0,71.0,Southpaw,35,10,0,False
+http://www.ufcstats.com/fighter-details/7c6e87729e824ef4,Ildemar,Alcantara,Marajo,74.0,185.0,78.0,Orthodox,21,8,0,False
+http://www.ufcstats.com/fighter-details/1e38bba6738b7b10,Alfonso,Alcarez,,63.0,145.0,,,1,3,1,False
+http://www.ufcstats.com/fighter-details/d26934530dc5b248,Gilbert,Aldana,El Peligro,73.0,250.0,,Orthodox,6,2,0,False
+http://www.ufcstats.com/fighter-details/578ef12674df1e6a,Irene,Aldana,,69.0,135.0,68.0,Orthodox,12,5,0,False
+http://www.ufcstats.com/fighter-details/c487223b0289bda9,Hector,Aldana,El Charro,71.0,170.0,72.0,Orthodox,4,4,0,False
+http://www.ufcstats.com/fighter-details/d0f3959b4a9747e6,Jose,Aldo,,67.0,135.0,70.0,Orthodox,28,6,0,False
+http://www.ufcstats.com/fighter-details/6fd953151d981979,JJ,Aldrich,,65.0,125.0,67.0,Southpaw,8,4,0,False
+http://www.ufcstats.com/fighter-details/fe5a9547479396ab,Jim,Alers,The Beast,69.0,145.0,71.0,Orthodox,13,3,0,False
+http://www.ufcstats.com/fighter-details/7a15f3694c5cbc02,John,Alessio,The Natural,70.0,155.0,72.0,Orthodox,34,16,0,False
+http://www.ufcstats.com/fighter-details/0541480fbf719d86,Houston,Alexander,The Assassin,72.0,205.0,72.0,Orthodox,13,8,1,False
+http://www.ufcstats.com/fighter-details/8fd76e1b49c00ae2,Kenneth,Alexander,The Machine,69.0,155.0,,Orthodox,5,5,0,False
+http://www.ufcstats.com/fighter-details/d53482bef23235ba,Marcio,Alexandre Junior,Lyoto,72.0,185.0,75.0,Southpaw,17,4,0,False
+http://www.ufcstats.com/fighter-details/b757c73f443d4fca,Olaf,Alfonso,,74.0,170.0,,Orthodox,8,11,0,False
+http://www.ufcstats.com/fighter-details/4b37a0bc2ab4cae1,Pablo,Alfonso,The Hurricane,68.0,145.0,,,6,5,0,False
+http://www.ufcstats.com/fighter-details/41b34b7f11f6d085,Levi,Alford,,,,,,1,4,0,False
+http://www.ufcstats.com/fighter-details/9abc648e76c4493a,Bill,Algeo,Senor Perfecto,72.0,145.0,73.0,Switch,12,3,0,False
+http://www.ufcstats.com/fighter-details/669a3cb6e394f515,Royce,Alger,,70.0,199.0,,Orthodox,3,2,0,False
+http://www.ufcstats.com/fighter-details/e17770faae3ca54c,Amir,Aliakbari,,75.0,250.0,,,10,1,0,False
+http://www.ufcstats.com/fighter-details/e70de1859b7ee78e,Sultan,Aliev,,71.0,170.0,74.0,Orthodox,15,3,0,False
+http://www.ufcstats.com/fighter-details/6ebe96a116e79e52,John,Allan,,75.0,205.0,75.0,Orthodox,13,5,0,False
+http://www.ufcstats.com/fighter-details/1e13936d708bcff7,George,Allen,,74.0,205.0,,Open Stance,13,19,2,False
+http://www.ufcstats.com/fighter-details/040a74bb0a465c54,Arnold,Allen,Almighty,68.0,145.0,70.0,Southpaw,16,1,0,False
+http://www.ufcstats.com/fighter-details/2f181c0467965b98,Brendan,Allen,All In,74.0,185.0,75.0,Orthodox,14,3,0,False
+http://www.ufcstats.com/fighter-details/c4fe2e9a06ea5bcb,Benny,Alloway,Blanco,71.0,170.0,75.0,Orthodox,13,6,0,False
+http://www.ufcstats.com/fighter-details/91186547a7f3f758,Ricardo,Almeida,Big Dog,72.0,170.0,74.0,Orthodox,13,5,0,False
+http://www.ufcstats.com/fighter-details/d615d6a10a4704cd,Magno,Almeida,,72.0,155.0,,,9,3,0,False
+http://www.ufcstats.com/fighter-details/2b074403b7c6cdb4,Thomas,Almeida,Thominhas,67.0,135.0,70.0,Southpaw,22,3,0,False
+http://www.ufcstats.com/fighter-details/67a992d4cff22466,Ericka,Almeida,,66.0,115.0,68.0,Orthodox,7,2,0,False
+http://www.ufcstats.com/fighter-details/f16ddfa31236efed,Estefani,Almeida,,64.0,125.0,,Orthodox,7,2,0,False
+http://www.ufcstats.com/fighter-details/c6bf75775b278ed8,Mauricio,Alonso,,74.0,170.0,,,13,7,0,False
+http://www.ufcstats.com/fighter-details/49b130de1da2e1bf,Sarah,Alpar,Too Sweet,64.0,135.0,,Southpaw,8,4,0,False
+http://www.ufcstats.com/fighter-details/c61b49cec6abd6b9,Rico,Altamirano,,70.0,170.0,,,3,2,0,False
+http://www.ufcstats.com/fighter-details/c11036da9162cb5f,Mike,Altman,,70.0,185.0,,Orthodox,1,4,0,False
+http://www.ufcstats.com/fighter-details/e741536153227386,Sean,Alvarez,,72.0,235.0,,Orthodox,4,3,0,False
+http://www.ufcstats.com/fighter-details/33a331684283900f,Eddie,Alvarez,The Underground King,69.0,155.0,69.0,Orthodox,29,6,0,False
+http://www.ufcstats.com/fighter-details/4438482bd1d5a029,Jaime,Alvarez,,68.0,125.0,69.0,Orthodox,6,1,0,False
+http://www.ufcstats.com/fighter-details/58bbef3770bb2dfc,Joel,Alvarez,El Fenomeno,75.0,155.0,77.0,Orthodox,16,2,0,False
+http://www.ufcstats.com/fighter-details/31ee470ef5dc8d7f,Thiago,Alves,Pitbull,69.0,170.0,70.0,Orthodox,28,15,0,False
+http://www.ufcstats.com/fighter-details/bd92cf5da5413d2a,Anthony,Alves,,,,,,1,3,0,False
+http://www.ufcstats.com/fighter-details/dc5a6b2fdb27e7dc,Amilcar,Alves,,72.0,170.0,,Southpaw,11,4,0,False
+http://www.ufcstats.com/fighter-details/d317a5e2b3f88c5f,Warlley,Alves,,71.0,170.0,72.0,Orthodox,14,4,0,False
+http://www.ufcstats.com/fighter-details/d156513a19acf856,Sam,Alvey,Smile'N,74.0,205.0,75.0,Southpaw,33,13,0,False
+http://www.ufcstats.com/fighter-details/20821819c401ced8,Andre,Amado,Dida,72.0,154.0,,Orthodox,6,4,1,False
+http://www.ufcstats.com/fighter-details/1e327b281ef6a745,Adlan,Amagov,Borz,74.0,170.0,76.0,Orthodox,13,2,1,False
+http://www.ufcstats.com/fighter-details/247fbbfafea60bb1,Maiara,Amanajas dos Santos,,65.0,115.0,,Southpaw,7,3,0,False
+http://www.ufcstats.com/fighter-details/ee0b69e307c857e5,Chris,Amarante,,,185.0,,,2,0,0,False
+http://www.ufcstats.com/fighter-details/c912f676692c353a,Jimmy,Ambriz,The Titan,74.0,315.0,,Southpaw,15,18,1,False
+http://www.ufcstats.com/fighter-details/d562b12b8fe88336,JJ,Ambrose,,70.0,170.0,,Orthodox,17,3,0,False
+http://www.ufcstats.com/fighter-details/70fa1c64a2c439ef,Alen,Amedovski,,70.0,185.0,74.0,Orthodox,8,2,0,False
+http://www.ufcstats.com/fighter-details/87a1dc546b1c5caf,Makwan,Amirkhani,Mr. Finland,70.0,145.0,72.0,Southpaw,15,4,0,False
+http://www.ufcstats.com/fighter-details/53adf5b845d91e4a,Bertrand,Amoussou,,68.0,190.0,,Orthodox,1,1,0,False
+http://www.ufcstats.com/fighter-details/23a8c33869bf5392,Karl,Amoussou,The Psycho,71.0,185.0,,Orthodox,12,4,2,False
+http://www.ufcstats.com/fighter-details/cad24459b28592ca,Eryk,Anders,Ya Boi,73.0,205.0,75.0,Southpaw,13,4,0,False
+http://www.ufcstats.com/fighter-details/8738eacd62e82a32,Matt,Andersen,,74.0,230.0,,Southpaw,14,8,1,False
+http://www.ufcstats.com/fighter-details/9199e0735b83dd32,Andy,Anderson,The Hammer,66.0,240.0,,,0,1,0,False
+http://www.ufcstats.com/fighter-details/1ffc38f67785797b,Lowell,Anderson,,66.0,160.0,,Orthodox,0,1,0,False
+http://www.ufcstats.com/fighter-details/5e4eec08896c9423,Corey,Anderson,Overtime,75.0,205.0,79.0,Orthodox,14,5,0,False
+http://www.ufcstats.com/fighter-details/19ba965651486013,Derek,Anderson,Barbaric,72.0,155.0,,,14,3,0,False
+http://www.ufcstats.com/fighter-details/a0e75f4a13eb73f1,Megan,Anderson,,72.0,145.0,72.0,Orthodox,11,4,0,False
+http://www.ufcstats.com/fighter-details/1562b12763cc8d67,Alex,Andrade,El Toro,71.0,200.0,,Orthodox,10,5,0,False
+http://www.ufcstats.com/fighter-details/6a1901c62ab3870f,Jessica,Andrade,Bate Estaca,61.0,115.0,62.0,Orthodox,20,7,0,False
+http://www.ufcstats.com/fighter-details/d221ee27afc7a60e,Viscardi,Andrade,,71.0,170.0,75.0,Orthodox,19,7,0,False
+http://www.ufcstats.com/fighter-details/9bad58fa651d6196,Jermaine,Andre,,67.0,200.0,,Orthodox,14,4,0,False
+http://www.ufcstats.com/fighter-details/00debc804e2b1cd4,Dylan,Andrews,The Villain,73.0,185.0,73.0,Switch,18,8,0,False
+http://www.ufcstats.com/fighter-details/46e2ca71fd5089cb,Reese,Andy,Riptide,72.0,205.0,,Orthodox,7,3,0,False
+http://www.ufcstats.com/fighter-details/e20ad078a7d63361,Julius,Anglickas,,75.0,205.0,,Orthodox,6,1,0,False
+http://www.ufcstats.com/fighter-details/e06fd1260ac865a7,Yoji,Anjo,Mr. 200%,71.0,205.0,,Orthodox,0,5,1,False
+http://www.ufcstats.com/fighter-details/d802174b0c0c1f4e,Magomed,Ankalaev,,75.0,205.0,75.0,Orthodox,13,1,0,False
+http://www.ufcstats.com/fighter-details/d343df8ba11f4c4e,Nina,Ansaroff,The Strina,65.0,115.0,64.0,Orthodox,10,6,0,False
+http://www.ufcstats.com/fighter-details/af997f7611673880,Gadzhimurad,Antigulov,,71.0,205.0,70.0,Orthodox,20,6,0,False
+http://www.ufcstats.com/fighter-details/25b31165758402dd,Adam,Antolin,Captain Chaos,65.0,125.0,63.0,Orthodox,12,3,0,False
+http://www.ufcstats.com/fighter-details/dbd198f780286aca,Angelo,Antonio,,,205.0,,Orthodox,1,3,0,False
+http://www.ufcstats.com/fighter-details/78d48d3874dacafd,Zu,Anyanwu,8th Wonder,73.0,251.0,77.0,Orthodox,14,5,0,False
+http://www.ufcstats.com/fighter-details/4665f9f909cd7214,Shinsho,Anzai,Animal,67.0,170.0,70.0,Orthodox,10,3,0,False
+http://www.ufcstats.com/fighter-details/79ded75550efc139,Shinya,Aoki,Tobikan Judan,71.0,154.0,,Southpaw,30,5,0,False
+http://www.ufcstats.com/fighter-details/0c1a04afca64e38f,Josh,Appelt,The Juggernaut,70.0,255.0,73.0,Southpaw,15,6,0,False
+http://www.ufcstats.com/fighter-details/1ccff7f0cfdf85eb,Erik,Apple,,72.0,170.0,,Orthodox,10,3,0,False
+http://www.ufcstats.com/fighter-details/269d103c96a4c3a5,Kenji,Arai,,70.0,145.0,,Southpaw,15,15,5,False
+http://www.ufcstats.com/fighter-details/73ef22f25d0f70e2,Romie,Aram,,70.0,170.0,,Orthodox,7,1,0,False
+http://www.ufcstats.com/fighter-details/71002dbc1743b9a7,Felipe,Arantes,Sertanejo,68.0,135.0,73.0,Orthodox,18,10,1,False
+http://www.ufcstats.com/fighter-details/dbea8c1cb327ab3d,Igor,Araujo,,73.0,170.0,77.0,Orthodox,25,8,0,False
+http://www.ufcstats.com/fighter-details/36541f1e6c5d4955,Viviane,Araujo,Vivi,64.0,125.0,68.0,Orthodox,8,2,0,False
+http://www.ufcstats.com/fighter-details/1291edf2d566a71a,Julio,Arce,,67.0,145.0,70.0,Southpaw,16,4,0,False
+http://www.ufcstats.com/fighter-details/d25e39e74efb0a77,Art,Arciniega,King Arthur,68.0,145.0,,,15,7,0,False
+http://www.ufcstats.com/fighter-details/9c9455912d917e4e,Tristan,Arenal,,,155.0,,,4,1,0,False
+http://www.ufcstats.com/fighter-details/3738e68d2261e60f,Andrei,Arlovski,The Pitbull,75.0,240.0,77.0,Orthodox,28,19,0,False
+http://www.ufcstats.com/fighter-details/30ad2050273d016a,Joey,Armstrong,,,,,,5,2,0,False
+http://www.ufcstats.com/fighter-details/bf0e700106d00e55,Austin,Arnett,Golden Boy,72.0,145.0,72.0,Orthodox,16,6,0,False
+http://www.ufcstats.com/fighter-details/05fbfe628658c538,Ricardo,Arona,The Brazilian Tiger,71.0,205.0,,Orthodox,14,5,0,False
+http://www.ufcstats.com/fighter-details/770b9d4813c25902,Chalid,Arrab,Die Faust,71.0,205.0,,Orthodox,7,3,0,False
+http://www.ufcstats.com/fighter-details/c136b2a8852da5bd,Akbarh,Arreola,El Caballero,70.0,155.0,71.0,Southpaw,23,10,1,False
+http://www.ufcstats.com/fighter-details/de62052b2ede65ba,Matt,Arroyo,No Regard,70.0,170.0,72.0,Orthodox,3,3,0,False
+http://www.ufcstats.com/fighter-details/61fb8098ccf81c7f,Antonio,Arroyo,,75.0,185.0,73.0,Orthodox,9,3,0,False
+http://www.ufcstats.com/fighter-details/2dea80c069847321,Gilles,Arsene,,69.0,190.0,,Southpaw,1,1,0,False
+http://www.ufcstats.com/fighter-details/91e3388e69060e69,Veta,Arteaga,,67.0,125.0,,,3,1,0,False
+http://www.ufcstats.com/fighter-details/49f78022126bf4a4,Cesar,Arzamendia,Goku,71.0,155.0,71.0,Orthodox,7,4,0,False
+http://www.ufcstats.com/fighter-details/a373085066dbfb54,Teddy,Ash,Bear,73.0,185.0,73.0,Switch,14,4,0,False
+http://www.ufcstats.com/fighter-details/b1d19449397541dc,Askar,Askarov,Bullet,66.0,125.0,67.0,Orthodox,11,0,1,False
+http://www.ufcstats.com/fighter-details/9be6020024133293,Cyril,Asker,Silverback,72.0,247.0,74.0,Orthodox,9,4,0,False
+http://www.ufcstats.com/fighter-details/06827d70c53ff0d9,Scott,Askham,,75.0,185.0,75.0,Southpaw,14,4,0,False
+http://www.ufcstats.com/fighter-details/0b31f87be71ebbb1,Ben,Askren,Funky,71.0,170.0,73.0,Orthodox,19,2,0,False
+http://www.ufcstats.com/fighter-details/399afbabc02376b5,Tom,Aspinall,,77.0,256.0,,Orthodox,7,2,0,False
+http://www.ufcstats.com/fighter-details/ff222167cce02919,Bruno,Assis,Brunao,74.0,185.0,,Orthodox,8,3,0,False
+http://www.ufcstats.com/fighter-details/d0d7160824278840,Junior,Assuncao,,69.0,145.0,72.0,Orthodox,13,4,0,False
+http://www.ufcstats.com/fighter-details/2f13e4020cea5b38,Raphael,Assuncao,,65.0,135.0,66.0,Orthodox,27,7,0,False
+http://www.ufcstats.com/fighter-details/fd7acf42bd6e7e95,Bazigit,Atajev,Volk,73.0,230.0,,Orthodox,17,1,0,False
+http://www.ufcstats.com/fighter-details/210935fd21670f6d,Rich,Attonito,The Raging Bull,70.0,170.0,72.0,Orthodox,10,5,0,False
+http://www.ufcstats.com/fighter-details/55ee431411ccf07a,Olivier,Aubin-Mercier,The Canadian Gangster,69.0,155.0,70.0,Southpaw,12,5,0,False
+http://www.ufcstats.com/fighter-details/196ed28337adc630,Pat,Audinwood,Awesomely Awesome,72.0,155.0,,Orthodox,9,2,1,False
+http://www.ufcstats.com/fighter-details/04643fd03d9159cc,Marcus,Aurelio,Maximus,70.0,155.0,74.0,Orthodox,21,10,0,False
+http://www.ufcstats.com/fighter-details/956dcac65e7b34d6,David,Avellan,,69.0,185.0,,Orthodox,2,1,0,False
+http://www.ufcstats.com/fighter-details/8753e125f4499816,Blas,Avena,The Disciple,72.0,170.0,74.0,Orthodox,7,6,0,False
+http://www.ufcstats.com/fighter-details/ba5c6eeb8ef45f5c,Levi,Avera,,73.0,170.0,,,16,10,0,False
+http://www.ufcstats.com/fighter-details/033d19259f589457,Anthony,Avila,,67.0,145.0,,,6,1,0,False
+http://www.ufcstats.com/fighter-details/4665cbf36b08193b,Chris,Avila,,70.0,145.0,72.0,Orthodox,5,4,0,False
+http://www.ufcstats.com/fighter-details/86d9dbe1bfcbade7,Julia,Avila,Raging Panda,67.0,135.0,68.0,Orthodox,7,1,0,False
+http://www.ufcstats.com/fighter-details/da603332ad41f165,Saad,Awad,Assassin,71.0,155.0,,,9,5,0,False
+http://www.ufcstats.com/fighter-details/26387c19f32dda0f,Javy,Ayala,Eye Candy,73.0,265.0,,,10,5,0,False
+http://www.ufcstats.com/fighter-details/6eaec40f724852f4,Jessin,Ayari,Abacus,72.0,155.0,73.0,Orthodox,16,5,0,False
+http://www.ufcstats.com/fighter-details/46d0a888d87d91ac,Abu,Azaitar,Gladiator,69.0,185.0,76.0,Orthodox,14,1,1,False
+http://www.ufcstats.com/fighter-details/ee18ff42063174df,Ottman,Azaitar,Bulldozer,68.0,155.0,71.0,Switch,12,0,0,False
+http://www.ufcstats.com/fighter-details/063649e21bc9d6d5,Luiz,Azeredo,,69.0,154.0,,Orthodox,15,10,0,False
+http://www.ufcstats.com/fighter-details/9bcfb40dbcd50568,Luciano,Azevedo,,75.0,161.0,,Orthodox,16,9,1,False
+http://www.ufcstats.com/fighter-details/2af2f2e26c4c0402,Hunter,Azure,,68.0,145.0,69.0,Orthodox,8,0,0,False
+http://www.ufcstats.com/fighter-details/98a6b2361045898f,Dong Hyun,Ma,Maestro,71.0,155.0,70.0,Orthodox,16,11,3,False
+http://www.ufcstats.com/fighter-details/ed74afc8b5b47a61,William,Patolino,Patolino,71.0,170.0,75.0,Orthodox,8,3,0,False
+http://www.ufcstats.com/fighter-details/2be6596a9db33bf5,Jason,MacDonald,The Athlete,75.0,185.0,80.0,Orthodox,26,16,0,False
+http://www.ufcstats.com/fighter-details/f3388d2cf7ab3f64,Rob,MacDonald,Maximus,75.0,205.0,78.0,Orthodox,5,4,0,False
+http://www.ufcstats.com/fighter-details/cbd5d3cdd862e90e,Rory,MacDonald,Red King,72.0,170.0,76.0,Orthodox,18,4,0,False
+http://www.ufcstats.com/fighter-details/35e1f9984ed64206,Ryan,MacDonald,Main Event,71.0,135.0,71.0,Switch,10,2,0,False
+http://www.ufcstats.com/fighter-details/4798e823ada58fe9,Veronica,Macedo,,64.0,125.0,64.0,Southpaw,6,4,1,False
+http://www.ufcstats.com/fighter-details/39831e62d12e7ad1,Clayton,MacFarlane,,,170.0,,,4,1,0,False
+http://www.ufcstats.com/fighter-details/8cf90e41646491fd,Ilima,Macfarlane,,64.0,125.0,,,6,0,0,False
+http://www.ufcstats.com/fighter-details/f7a7f7118d4b01b6,Lyoto,Machida,The Dragon,73.0,185.0,74.0,Southpaw,24,8,0,False
+http://www.ufcstats.com/fighter-details/cd7bafbeee1f29a0,Jon,Koppenhaver,War Machine,71.0,170.0,,Orthodox,11,4,0,False
+http://www.ufcstats.com/fighter-details/dedc3bb440d09554,Anthony,Macias,Mad Dog,69.0,185.0,,Switch,26,16,0,False
+http://www.ufcstats.com/fighter-details/e25bcbcdaf6537a1,Reza,Madadi,Mad Dog,71.0,155.0,72.0,Orthodox,14,6,0,False
+http://www.ufcstats.com/fighter-details/68c7ad953455c73f,Don,Madge,Magic Man,72.0,155.0,72.0,Southpaw,9,3,1,False
+http://www.ufcstats.com/fighter-details/a8d521d913df4e31,Ryan,Madigan,,72.0,170.0,,Orthodox,5,3,0,False
+http://www.ufcstats.com/fighter-details/7691a80e6ca3e55b,Jon,Madsen,,72.0,240.0,72.0,Orthodox,7,1,0,False
+http://www.ufcstats.com/fighter-details/da0995f19b749cfa,Mark,Madsen,The Olympian,68.0,155.0,72.0,Orthodox,10,0,0,False
+http://www.ufcstats.com/fighter-details/a4bf17bd3ba3423b,Yoshiro,Maeda,,67.0,139.0,68.0,Southpaw,28,12,2,False
+http://www.ufcstats.com/fighter-details/8bbc0cfc01bc1ba1,Leonardo,Mafra,Macarrao,70.0,155.0,70.0,Orthodox,12,3,0,False
+http://www.ufcstats.com/fighter-details/88a9bc81271ccd89,Vinny,Magalhaes,Pezao,75.0,205.0,79.0,Orthodox,11,7,0,False
+http://www.ufcstats.com/fighter-details/1b583c64c23f0c7f,Vinicius,Magalhaes,Draculinho,,145.0,,,2,1,0,False
+http://www.ufcstats.com/fighter-details/0c5c66ddd1886b83,Caio,Magalhaes,Hellboy,73.0,185.0,73.0,Orthodox,9,3,0,False
+http://www.ufcstats.com/fighter-details/7a613f78dd7ee8f8,Bernardo,Magalhaes,Trekko,69.0,155.0,65.0,Orthodox,11,3,0,False
+http://www.ufcstats.com/fighter-details/8db1b36dde268ef6,Eric,Magana,,,,,,1,1,0,False
+http://www.ufcstats.com/fighter-details/2015c944226ad2df,Brandon,Magana,,,170.0,,Orthodox,6,2,0,False
+http://www.ufcstats.com/fighter-details/d5ae8074631762fc,Katsuhiko,Nagata,,67.0,154.0,,Southpaw,6,7,2,False
+http://www.ufcstats.com/fighter-details/e49c2db95e572dc8,Yuji,Nagata,,72.0,225.0,,Orthodox,0,2,0,False
+http://www.ufcstats.com/fighter-details/342422bb6ced1e8d,Greg,Nagy,,73.0,210.0,,Orthodox,1,3,0,False
+http://www.ufcstats.com/fighter-details/47e0b5833e6bc91a,Logan,Nail,,,185.0,,,1,1,0,False
+http://www.ufcstats.com/fighter-details/7be328bb3c2ea22e,Yukiya,Naito,,73.0,205.0,,Orthodox,15,6,2,False
+http://www.ufcstats.com/fighter-details/7a9ca95a92d7b64c,Andrews,Nakahara,,73.0,185.0,,Orthodox,3,2,2,False
+http://www.ufcstats.com/fighter-details/f9ae6914f604aa9f,Rin,Nakai,,61.0,135.0,60.0,Orthodox,16,2,1,False
+http://www.ufcstats.com/fighter-details/b034747dc1d15491,Kazuhiro,Nakamura,Kaz,71.0,205.0,70.0,Orthodox,15,11,0,False
+http://www.ufcstats.com/fighter-details/65ddc8a9ac4e8531,Keita,Nakamura,K-Taro,71.0,170.0,73.0,Southpaw,34,10,2,False
+http://www.ufcstats.com/fighter-details/a196332ee4aa8a82,Daisuke,Nakamura,,67.0,154.0,,Orthodox,24,13,1,False
+http://www.ufcstats.com/fighter-details/03e8df49c4a059ba,Yusaku,Nakamura,,65.0,145.0,,,3,2,1,False
+http://www.ufcstats.com/fighter-details/95eb112a85601a0a,Jutaro,Nakao,,69.0,170.0,,Southpaw,23,17,4,False
+http://www.ufcstats.com/fighter-details/e18012194473e8b0,Yoshihiro,Nakao,Kiss,72.0,220.0,,Southpaw,9,3,0,False
+http://www.ufcstats.com/fighter-details/a00ec21cfbba17b6,Yui Chul,Nam,The Korean Bulldozer,69.0,145.0,69.0,Orthodox,18,6,1,False
+http://www.ufcstats.com/fighter-details/6e00cfffd54653c4,Tyson,Nam,,67.0,125.0,68.0,Orthodox,18,11,1,False
+http://www.ufcstats.com/fighter-details/47b63240018d5d86,Rose,Namajunas,Thug,65.0,115.0,65.0,Orthodox,9,4,0,False
+http://www.ufcstats.com/fighter-details/6083f497c22cc075,Yasuhito,Namekawa,,69.0,205.0,,Orthodox,25,16,4,False
+http://www.ufcstats.com/fighter-details/776a58a67665a171,Nad,Narimani,Smiler,68.0,145.0,70.0,Orthodox,12,3,0,False
+http://www.ufcstats.com/fighter-details/3a12a2f096a6d975,Roger,Narvaez,Silverback,75.0,185.0,79.0,Southpaw,7,2,0,False
+http://www.ufcstats.com/fighter-details/307064d3e0f036c2,Fabio,Nascimento,Negao,70.0,185.0,,Orthodox,11,5,0,False
+http://www.ufcstats.com/fighter-details/253076a23d03dcd0,Allan,Nascimento,Puro Osso,69.0,125.0,,Orthodox,17,4,0,False
+http://www.ufcstats.com/fighter-details/d31a5546c0e9b213,Rodrigo,Nascimento,Ze Colmeia,75.0,246.0,,Orthodox,7,0,0,False
+http://www.ufcstats.com/fighter-details/7dfb56f24fe5ddea,Bobby,Nash,Nashty,72.0,170.0,74.0,Orthodox,8,4,0,False
+http://www.ufcstats.com/fighter-details/d41937647eae9a34,Reza,Nasri,,71.0,205.0,,Orthodox,2,1,0,False
+http://www.ufcstats.com/fighter-details/154a6b3ffae264cd,Pawel,Nastula,,72.0,230.0,,Southpaw,4,4,0,False
+http://www.ufcstats.com/fighter-details/20bcc9966affb19c,Jake,O'Brien,Irish,75.0,205.0,76.0,Orthodox,13,4,0,False
+http://www.ufcstats.com/fighter-details/d25b93992f285953,TJ,O'Brien,The Spider,74.0,155.0,,Orthodox,16,5,0,False
+http://www.ufcstats.com/fighter-details/cb52f9490c2dc069,Sean,O'Connell,The Real OC,73.0,205.0,74.0,Orthodox,17,9,0,False
+http://www.ufcstats.com/fighter-details/69ea0119f6f0dfe0,Dan,O'Connor,Johnny Irish,64.0,115.0,,,6,6,0,False
+http://www.ufcstats.com/fighter-details/46effbd1135423c5,Sean,O'Haire,,77.0,270.0,,Orthodox,4,2,0,False
+http://www.ufcstats.com/fighter-details/b50a426a33da0012,Sean,O'Malley,Sugar,71.0,135.0,72.0,Switch,11,0,0,False
+http://www.ufcstats.com/fighter-details/338fda4ec7034c5d,Jeremiah,O'Neal,,68.0,260.0,,,13,25,0,False
+http://www.ufcstats.com/fighter-details/56bc9ccb609df534,Chuck,O'Neil,Cold Steel,74.0,170.0,,,9,4,0,False
+http://www.ufcstats.com/fighter-details/494b0bfdbac74502,Brendan,O'Reilly,Badger,67.0,170.0,69.0,Orthodox,6,3,0,False
+http://www.ufcstats.com/fighter-details/7139cd2ae4bf6a29,Takahiro,Oba,,68.0,200.0,,Southpaw,5,7,1,False
+http://www.ufcstats.com/fighter-details/6e3282d57d2467a0,Nobuhiro,Obiya,,68.0,145.0,,Orthodox,12,5,1,False
+http://www.ufcstats.com/fighter-details/2d6d6ffe5a446ea2,Christian,Ocon,The Don,68.0,135.0,69.0,Orthodox,4,1,0,False
+http://www.ufcstats.com/fighter-details/f43907e75f8d9baa,Richard,Odoms,The Black Eagle,77.0,265.0,82.0,Orthodox,8,1,0,False
+http://www.ufcstats.com/fighter-details/0845c81e37d3bcb3,Volkan,Oezdemir,No Time,74.0,205.0,75.0,Orthodox,17,4,0,False
+http://www.ufcstats.com/fighter-details/4b2390cfaceb91d8,Naoya,Ogawa,,76.0,255.0,,Orthodox,7,2,0,False
+http://www.ufcstats.com/fighter-details/b6c4451cb13c9303,Andy,Ogle,The Little Axe,68.0,145.0,69.0,Orthodox,9,6,0,False
+http://www.ufcstats.com/fighter-details/6a8a06b542e1516d,Michiyoshi,Ohara,,70.0,205.0,,Orthodox,0,2,0,False
+http://www.ufcstats.com/fighter-details/01daf32100ed7517,Koji,Oishi,,68.0,170.0,,Orthodox,21,8,8,False
+http://www.ufcstats.com/fighter-details/32541eb5d12668b4,Takayuki,Okada,Giant Ochiai,73.0,290.0,,Orthodox,3,3,2,False
+http://www.ufcstats.com/fighter-details/acff437707625fc7,Yushin,Okami,Thunder,74.0,170.0,75.0,Southpaw,35,12,0,False
+http://www.ufcstats.com/fighter-details/aa40fe6038db56cb,JJ,Okanovich,The Bosnian Bomber,71.0,155.0,76.0,Orthodox,6,1,0,False
+http://www.ufcstats.com/fighter-details/33454ad90754cb49,Kazuki,Okubo,,71.0,175.0,,Orthodox,7,9,0,False
+http://www.ufcstats.com/fighter-details/02a65a55f25fb4f3,Masakatsu,Okuda,,,,,,8,5,0,False
+http://www.ufcstats.com/fighter-details/98c23cb6da5b3352,Aleksei,Oleinik,The Boa Constrictor,74.0,240.0,80.0,Orthodox,58,13,1,False
+http://www.ufcstats.com/fighter-details/0d65c432720accb9,Michal,Oleksiejczuk,Lord,72.0,205.0,74.0,Southpaw,14,4,0,False
+http://www.ufcstats.com/fighter-details/373be586f370d400,Raquel,Pa'aluhi,Rocky,67.0,135.0,,,3,4,0,False
+http://www.ufcstats.com/fighter-details/8cb76103cd8a1562,Nick,Pace,,67.0,135.0,68.0,Orthodox,6,3,0,False
+http://www.ufcstats.com/fighter-details/16b89be2f5c16fba,Larissa,Pacheco,,67.0,135.0,69.0,Orthodox,10,2,0,False
+http://www.ufcstats.com/fighter-details/8f4eeaf7a0df7c1a,Teemu,Packalen,Pacu,73.0,155.0,75.0,Orthodox,8,3,0,False
+http://www.ufcstats.com/fighter-details/c51da79b0346b5b7,George,Pacurariu,Constantine,67.0,135.0,,,10,5,0,False
+http://www.ufcstats.com/fighter-details/856c4d2668a875f9,Cyrillo,Padilha,,71.0,155.0,,,3,3,0,False
+http://www.ufcstats.com/fighter-details/01dd4cdc2446f665,Gary,Padilla,,71.0,205.0,,,12,6,0,False
+http://www.ufcstats.com/fighter-details/c96e2ae6021144a1,Damacio,Page,The Angel of Death,66.0,135.0,66.0,Orthodox,12,8,0,False
+http://www.ufcstats.com/fighter-details/a67d071163962af8,Michael,Page,Venom,74.0,170.0,,,12,0,0,False
+http://www.ufcstats.com/fighter-details/55f80a8aeffcdb33,Dustin,Pague,The Disciple,69.0,135.0,74.0,Orthodox,11,10,0,False
+http://www.ufcstats.com/fighter-details/1e12c1dbbb1e2dda,Josh,Paiva,,66.0,125.0,,,8,2,0,False
+http://www.ufcstats.com/fighter-details/82b4e942781b1046,Raulian,Paiva,,68.0,125.0,69.0,Orthodox,19,3,0,False
+http://www.ufcstats.com/fighter-details/320edfb0332b7073,Fredson,Paixao,,66.0,145.0,66.0,Orthodox,10,4,0,False
+http://www.ufcstats.com/fighter-details/de20ffb3fc2e7629,Jose,Palacios,,69.0,145.0,,Orthodox,3,2,0,False
+http://www.ufcstats.com/fighter-details/797ddccda75f169f,Ricardo,Palacios,El Gallero,66.0,145.0,,Orthodox,9,1,0,False
+http://www.ufcstats.com/fighter-details/4304992c2acc187b,Bart,Palaszewski,Bartimus,69.0,145.0,70.0,Orthodox,35,17,0,False
+http://www.ufcstats.com/fighter-details/60029bcf496bd707,Soa,Palelei,The Hulk,76.0,265.0,81.0,Orthodox,22,5,0,False
+http://www.ufcstats.com/fighter-details/8ddf9c51c5fdea75,Rousimar,Palhares,Toquinho,68.0,170.0,71.0,Orthodox,24,5,0,False
+http://www.ufcstats.com/fighter-details/e8c170a64dc920ac,Tulio,Palhares,,,180.0,,,2,14,0,False
+http://www.ufcstats.com/fighter-details/ab7c212de9f66af0,Stephen,Palling,Bozo,64.0,143.0,,,11,7,1,False
+http://www.ufcstats.com/fighter-details/f31c0905045fa100,Eduardo,Pamplona,,71.0,170.0,,,15,3,0,False
+http://www.ufcstats.com/fighter-details/a0f0004aadf10b71,Alexandre,Pantoja,The Cannibal,65.0,125.0,67.0,Orthodox,22,4,0,False
+http://www.ufcstats.com/fighter-details/edad57b3dddf2168,Jared,Papazian,The Jackhammer,68.0,135.0,67.0,Southpaw,14,9,0,False
+http://www.ufcstats.com/fighter-details/74fefd43f073cd2f,Joe,Pardo,,73.0,210.0,,Southpaw,4,6,0,False
+http://www.ufcstats.com/fighter-details/56116537d71a578c,Bryan,Pardoe,Pain Inducer,73.0,205.0,,Orthodox,12,16,0,False
+http://www.ufcstats.com/fighter-details/d365ee924f5cc3fc,Bao,Quach,,63.0,145.0,,Orthodox,18,10,1,False
+http://www.ufcstats.com/fighter-details/f7b4cbe93f3bac06,Gary,Quan,,68.0,143.0,,,3,5,0,False
+http://www.ufcstats.com/fighter-details/aa171d55d4b5208f,Billy,Quarantillo,,70.0,145.0,70.0,Orthodox,13,2,0,False
+http://www.ufcstats.com/fighter-details/52cae54377b433b7,Nate,Quarry,Rock,72.0,185.0,72.0,Open Stance,12,4,0,False
+http://www.ufcstats.com/fighter-details/2a8502954f49e682,Vinicius,Queiroz,Spartan,79.0,220.0,,,5,2,0,False
+http://www.ufcstats.com/fighter-details/ddbe4fa2ea573393,Jimmy,Quinlan,Crash,72.0,185.0,72.0,Orthodox,3,1,1,False
+http://www.ufcstats.com/fighter-details/cc23ed51619421a3,Ryan,Quinn,,68.0,145.0,,,13,7,1,False
+http://www.ufcstats.com/fighter-details/5e84a859c6a82288,Michel,Quinones,El Capo,70.0,155.0,73.0,Orthodox,8,3,0,False
+http://www.ufcstats.com/fighter-details/36549928f90f1d36,Jose,Quinonez,Teco,68.0,135.0,69.0,Southpaw,9,4,0,False
+http://www.ufcstats.com/fighter-details/01b39decaf0abf6a,Benji,Radach,Razor,70.0,185.0,,Orthodox,21,7,0,False
+http://www.ufcstats.com/fighter-details/45bc8f98d62bd096,Jordan,Radev,,67.0,185.0,,Southpaw,23,5,0,False
+http://www.ufcstats.com/fighter-details/6cc25d19a891f435,Gilbert,Rael,,68.0,155.0,,,1,3,0,False
+http://www.ufcstats.com/fighter-details/ff2c606c8bc365e3,Josh,Rafferty,,72.0,170.0,,Orthodox,9,8,0,False
+http://www.ufcstats.com/fighter-details/bc7f7f0ba3db74d2,Amir,Rahnavardi,,72.0,205.0,,Orthodox,11,10,0,False
+http://www.ufcstats.com/fighter-details/9b1e3fb4f8cbd5b7,Ricky,Rainey,The Sniper,73.0,170.0,77.0,Switch,13,6,0,False
+http://www.ufcstats.com/fighter-details/01afe0916a40c7c5,Shavkat,Rakhmonov,Nomad,73.0,170.0,,Orthodox,12,0,0,False
+http://www.ufcstats.com/fighter-details/333b9e5c723ac873,Aleksandar,Rakic,,76.0,205.0,78.0,Orthodox,12,2,0,False
+http://www.ufcstats.com/fighter-details/ffdeb4fbea09ce75,Jessica,Rakoczy,The Ragin',67.0,115.0,68.0,Orthodox,2,5,0,False
+http://www.ufcstats.com/fighter-details/ea398c802d9998ee,Thomas,Ramirez,,73.0,410.0,,Sideways,0,1,0,False
+http://www.ufcstats.com/fighter-details/d1759b2b7be9be56,Hector,Ramirez,Sick Dog,72.0,205.0,,Orthodox,9,4,1,False
+http://www.ufcstats.com/fighter-details/96c05ba5ab9eccaf,Matt,Ramirez,The Machine,65.0,125.0,,,2,3,0,False
+http://www.ufcstats.com/fighter-details/4311e9d23604205c,Steve,Ramirez,,67.0,125.0,,,5,2,0,False
+http://www.ufcstats.com/fighter-details/ac31f869959860bc,Amador,Ramirez,,,135.0,,,5,4,0,False
+http://www.ufcstats.com/fighter-details/3b5f2faaa2f2c1f6,Andrew,Ramm,The,73.0,160.0,,,4,4,0,False
+http://www.ufcstats.com/fighter-details/abc8e1423cf5b74e,Ian,Rammel,,72.0,185.0,,,4,3,0,False
+http://www.ufcstats.com/fighter-details/7bc475b0fc2020ab,Luis,Ramos,Beicao,68.0,170.0,,Orthodox,19,8,2,False
+http://www.ufcstats.com/fighter-details/1ae8f3c723aacff4,Ricardo,Ramos,,69.0,135.0,72.0,Orthodox,14,2,0,False
+http://www.ufcstats.com/fighter-details/0052de90691d4a93,Davi,Ramos,Tasmanian Devil,66.0,155.0,70.0,Orthodox,10,3,0,False
+http://www.ufcstats.com/fighter-details/30b577b112bef42d,Vernon,Ramos,,66.0,170.0,72.0,Orthodox,3,2,0,False
+http://www.ufcstats.com/fighter-details/6859f67468ba8489,Kevin,Randleman,The Monster,70.0,205.0,,Orthodox,17,16,0,False
+http://www.ufcstats.com/fighter-details/ed069a95aaaf4f56,Raou,Raou,,68.0,195.0,,Orthodox,0,1,0,False
+http://www.ufcstats.com/fighter-details/9d61d8cb1c354867,Hussain,Rasouli,,66.0,135.0,,,2,3,0,False
+http://www.ufcstats.com/fighter-details/31e1ea6fe6b682f8,David,Rasouri,,67.0,155.0,,,2,3,0,False
+http://www.ufcstats.com/fighter-details/8c90c1563972e44d,Ed,Ratcliff,9mm,70.0,155.0,71.0,Orthodox,7,3,0,False
+http://www.ufcstats.com/fighter-details/b1669a810fae4220,Yusup,Saadulaev,Maestro,66.0,135.0,,,8,1,1,False
+http://www.ufcstats.com/fighter-details/7956f026e2672c47,Pete,Sabala,,,135.0,,,3,13,0,False
+http://www.ufcstats.com/fighter-details/2650e2f846a30f64,Amir,Sadollah,,70.0,170.0,74.0,Orthodox,7,5,0,False
+http://www.ufcstats.com/fighter-details/9ba2226646046b63,Frankie,Saenz,,66.0,135.0,66.0,Orthodox,13,6,0,False
+http://www.ufcstats.com/fighter-details/88d7b6d8230e1f3f,Saparbeg,Safarov,,73.0,205.0,78.0,Orthodox,9,3,0,False
+http://www.ufcstats.com/fighter-details/0749d968e932df53,Tarec,Saffiedine,Sponge,70.0,170.0,70.0,Switch,16,7,0,False
+http://www.ufcstats.com/fighter-details/4ac1ecf8ce59ef23,Jason,Saggo,,71.0,155.0,71.0,Orthodox,12,4,0,False
+http://www.ufcstats.com/fighter-details/50db8711c70196cd,Ovince,Saint Preux,,75.0,230.0,80.0,Southpaw,24,13,0,False
+http://www.ufcstats.com/fighter-details/fb41432b622992a9,Lukasz,Sajewski,Wookie,68.0,155.0,71.0,Orthodox,13,3,0,False
+http://www.ufcstats.com/fighter-details/94a5aaf573f780ad,Yukio,Sakaguchi,,69.0,185.0,,Orthodox,6,6,0,False
+http://www.ufcstats.com/fighter-details/441eacbe20e0e80b,Augusto,Sakai,,75.0,265.0,77.0,Orthodox,14,1,1,False
+http://www.ufcstats.com/fighter-details/7f955f71fa2ce7ac,Alessio,Sakara,Legionarius,72.0,185.0,72.0,Orthodox,19,11,0,False
+http://www.ufcstats.com/fighter-details/d7907a9a968e4d29,Wataru,Sakata,,69.0,195.0,,Southpaw,11,13,0,False
+http://www.ufcstats.com/fighter-details/4690d47bf725fd98,Gokhan,Saki,The Rebel,72.0,205.0,73.0,Orthodox,1,2,0,False
+http://www.ufcstats.com/fighter-details/9b5b5a75523728f3,Kazushi,Sakuraba,The Gracie Hunter,72.0,185.0,,Southpaw,26,16,1,False
+http://www.ufcstats.com/fighter-details/85e26e2468b4e82f,Hayato,Sakurai,Mach,67.0,168.0,,Orthodox,36,12,2,False
+http://www.ufcstats.com/fighter-details/ff9578cdbfabd323,Ryuta,Sakurai,,67.0,183.0,,Orthodox,22,16,6,False
+http://www.ufcstats.com/fighter-details/9b198c73e3d0d289,Justin,Salas,J-Bomb,68.0,155.0,70.0,Southpaw,12,7,0,False
+http://www.ufcstats.com/fighter-details/394f55ebca199124,Ivan,Salaverry,,72.0,185.0,,Orthodox,13,8,0,False
+http://www.ufcstats.com/fighter-details/72c4b253d2f5ebf2,Roman,Salazar,El Gallito,67.0,135.0,67.0,Orthodox,9,4,0,False
+http://www.ufcstats.com/fighter-details/3e36811b7bc1f6ad,John,Salgado,Greco,70.0,170.0,,,4,7,1,False
+http://www.ufcstats.com/fighter-details/447f9858ae78f921,Muslim,Salikhov,King of Kung Fu,71.0,170.0,70.0,Orthodox,16,2,0,False
+http://www.ufcstats.com/fighter-details/74d5f71eeb0c66c7,Gabriel,Salinas-Jones,,73.0,245.0,,,5,2,1,False
+http://www.ufcstats.com/fighter-details/a049aa06508b9c7b,Brandon,Saling,White Steel,70.0,170.0,,,8,6,0,False
+http://www.ufcstats.com/fighter-details/7c0847d3854a95f2,Sean,Salmon,,70.0,185.0,,Southpaw,18,17,0,False
+http://www.ufcstats.com/fighter-details/e7bc606d269896aa,Osamu,Tachihikari,,77.0,300.0,,Orthodox,0,4,0,False
+http://www.ufcstats.com/fighter-details/bb01bc3c57f39b04,Amber,Tackett,,,115.0,,,1,3,0,False
+http://www.ufcstats.com/fighter-details/f70144caea5c4c80,Eugenio,Tadeu,,68.0,160.0,,Orthodox,2,3,0,False
+http://www.ufcstats.com/fighter-details/e13abac8089a801a,Justin,Tafa,Bad Man,72.0,264.0,74.0,Southpaw,4,1,0,False
+http://www.ufcstats.com/fighter-details/b4537562f88ac582,Khalid,Taha,The Warrior,65.0,135.0,69.0,Orthodox,14,2,0,False
+http://www.ufcstats.com/fighter-details/9bf126927843e184,Joe,Taimanglo,The Juggernaut,64.0,135.0,,,23,7,1,False
+http://www.ufcstats.com/fighter-details/8f5c8850b2484173,Mairbek,Taisumov,Beckan,69.0,155.0,73.0,Orthodox,27,6,0,False
+http://www.ufcstats.com/fighter-details/a25b71fe5e31fa97,Nobuhiko,Takada,,72.0,220.0,,Southpaw,2,6,2,False
+http://www.ufcstats.com/fighter-details/6420efac0578988b,Yoshiki,Takahashi,Kazuo,71.0,199.0,,Southpaw,29,25,3,False
+http://www.ufcstats.com/fighter-details/01f86e2d604e2f3c,Yoko,Takahashi,,68.0,150.0,,,15,12,2,False
+http://www.ufcstats.com/fighter-details/4f74c8be51db8a37,Daiju,Takase,,72.0,170.0,,Southpaw,9,13,2,False
+http://www.ufcstats.com/fighter-details/0d16bdb7d32e88e9,Hiroyuki,Takaya,Streetfight Bancho,66.0,139.0,,Orthodox,16,10,1,False
+http://www.ufcstats.com/fighter-details/d856a0080ac09ed7,Yoshihiro,Takayama,,77.0,280.0,,Orthodox,1,4,0,False
+http://www.ufcstats.com/fighter-details/a7724f51e32e763e,Makoto,Takimoto,,67.0,205.0,,Southpaw,6,5,0,False
+http://www.ufcstats.com/fighter-details/1dc56b59cb28425d,Oleg,Taktarov,The Russian Bear,72.0,210.0,,Orthodox,17,5,2,False
+http://www.ufcstats.com/fighter-details/49858bf46dabf6fb,Nordine,Taleb,,73.0,170.0,74.0,Orthodox,15,7,0,False
+http://www.ufcstats.com/fighter-details/eaa0a728cc91ef60,Tsuyoshi,Tamakairiki,,72.0,220.0,,Orthodox,0,3,0,False
+http://www.ufcstats.com/fighter-details/bfd4d50591033a1f,Eli,Tamez,Tomahawk,67.0,135.0,,,10,0,0,False
+http://www.ufcstats.com/fighter-details/30e8b4505f5ccf92,Kiyoshi,Tamura,,71.0,185.0,,Southpaw,32,13,3,False
+http://www.ufcstats.com/fighter-details/c95fbc085e17a532,Akitoshi,Tamura,The Ironman,69.0,135.0,70.0,Orthodox,16,11,2,False
+http://www.ufcstats.com/fighter-details/57bf89d42364d39e,Issei,Tamura,,65.0,135.0,63.0,Orthodox,7,4,0,False
+http://www.ufcstats.com/fighter-details/ad3041e61896b975,Jason,Tan,,70.0,170.0,,Orthodox,5,3,0,False
+http://www.ufcstats.com/fighter-details/1bf49bf829964144,Akihito,Tanaka,Kinniku Mantaro,,,,Southpaw,2,2,0,False
+http://www.ufcstats.com/fighter-details/64788ee44b062ded,Michinori,Tanaka,,65.0,135.0,67.0,Orthodox,11,3,0,False
+http://www.ufcstats.com/fighter-details/8f2d9ee27f206f1f,Evan,Tanner,,72.0,185.0,74.0,Orthodox,32,8,0,False
+http://www.ufcstats.com/fighter-details/8f2deefe8c5dfb5d,Alberto,Uda,,75.0,185.0,77.0,Orthodox,9,2,0,False
+http://www.ufcstats.com/fighter-details/bcd124bcd3d5be46,Ryuki,Ueyama,,71.0,180.0,,Southpaw,11,13,5,False
+http://www.ufcstats.com/fighter-details/10ccf4ec9913cadc,Christian,Uflacker,,71.0,170.0,,,3,0,0,False
+http://www.ufcstats.com/fighter-details/4a1a492f299581d9,Andy,Uhrich,,72.0,170.0,,,6,3,0,False
+http://www.ufcstats.com/fighter-details/7a39bbac8cc0fa70,Gasan,Umalatov,Cobra,71.0,170.0,71.0,Orthodox,15,5,1,False
+http://www.ufcstats.com/fighter-details/4793a2d90f5ab8ae,Jeremy,Umphries,,,160.0,,,5,2,0,False
+http://www.ufcstats.com/fighter-details/1e310618d02ff93b,Zach,Underwood,,74.0,185.0,,,8,4,0,False
+http://www.ufcstats.com/fighter-details/eb1723480fa2f96c,Caol,Uno,Uno Shoten,67.0,155.0,70.0,Southpaw,26,15,5,False
+http://www.ufcstats.com/fighter-details/58258914525740a5,Kengo,Ura,Uraken,69.0,165.0,,,10,8,2,False
+http://www.ufcstats.com/fighter-details/4b8fb0453a596b8e,Hector,Urbina,El Toro,71.0,170.0,73.0,Orthodox,25,10,1,False
+http://www.ufcstats.com/fighter-details/47fcdcaccb58ca80,Elias,Urbina,,75.0,185.0,77.0,Southpaw,3,1,0,False
+http://www.ufcstats.com/fighter-details/e78c4c3d329c531b,Nick,Urso,,66.0,125.0,66.0,Southpaw,10,3,0,False
+http://www.ufcstats.com/fighter-details/c34e5849184b08c3,Yasuhiro,Urushitani,,65.0,125.0,,Southpaw,19,6,6,False
+http://www.ufcstats.com/fighter-details/f1b2aa7853d1ed6e,Kamaru,Usman,The Nigerian Nightmare,72.0,170.0,76.0,Switch,16,1,0,True
+http://www.ufcstats.com/fighter-details/6546af7ab545b90c,Darren,Uyenoyama,BC,66.0,125.0,64.0,Orthodox,8,5,0,False
+http://www.ufcstats.com/fighter-details/54578e5927adea53,Richie,Vaculik,Vas,66.0,125.0,69.0,Orthodox,10,5,0,False
+http://www.ufcstats.com/fighter-details/fc1868f56d3036eb,Egidijus,Valavicius,,72.0,200.0,,Orthodox,20,9,0,False
+http://www.ufcstats.com/fighter-details/8a0be41c0380188d,Charlie,Valencia,,63.0,135.0,64.0,Orthodox,12,7,0,False
+http://www.ufcstats.com/fighter-details/de277a4abcfeea46,Victor,Valenzuela,Joe Boxer,70.0,155.0,,,11,6,2,False
+http://www.ufcstats.com/fighter-details/663b76da637402c3,Victor,Valimaki,The Matrix,72.0,205.0,,Orthodox,16,8,0,False
+http://www.ufcstats.com/fighter-details/2a898bf9fb7710b3,Andrew,Valladerez,,,135.0,,,2,4,0,False
+http://www.ufcstats.com/fighter-details/c295de4e10acd4c9,Isaac,Vallie-Flagg,,68.0,155.0,68.0,Orthodox,14,6,1,False
+http://www.ufcstats.com/fighter-details/2ee09ec2a0695eb9,Mike,van Arsdale,,74.0,205.0,,Switch,8,5,0,False
+http://www.ufcstats.com/fighter-details/7b39035fae7268b8,Matt,Van Buren,Gutter,77.0,205.0,76.0,,7,4,0,False
+http://www.ufcstats.com/fighter-details/b53c46f613f6f248,Brianna,Van Buren,The Bull,60.0,115.0,62.0,Southpaw,9,2,0,False
+http://www.ufcstats.com/fighter-details/23ab42947c1990e3,Ron,van Clief,The Black Dragon,70.0,190.0,,Orthodox,0,1,0,False
+http://www.ufcstats.com/fighter-details/02177caefe7c07d4,Lloyd,Van Dams,,73.0,240.0,,Southpaw,0,1,0,False
+http://www.ufcstats.com/fighter-details/26d61e92a6069cd2,Chad,Vance,,72.0,185.0,,Orthodox,6,5,0,False
+http://www.ufcstats.com/fighter-details/32c3ee378671a5d9,Austin,Vanderford,AK-47,71.0,170.0,74.0,Orthodox,4,0,0,False
+http://www.ufcstats.com/fighter-details/f9b200db02b488d9,Lando,Vannata,Groovy,69.0,155.0,71.0,Orthodox,11,4,2,False
+http://www.ufcstats.com/fighter-details/4d5197f331c47290,Paige,VanZant,12 Gauge,64.0,115.0,65.0,Orthodox,8,4,0,False
+http://www.ufcstats.com/fighter-details/07a18ae55dfc3cd9,Paul,Varelans,The Polar Bear,80.0,300.0,,Orthodox,9,9,0,False
+http://www.ufcstats.com/fighter-details/ec18eb918121787c,Kazula,Vargas,Kazula,68.0,155.0,71.0,Southpaw,10,4,0,False
+http://www.ufcstats.com/fighter-details/a54fc2d6fc224dc3,Jamie,Varner,,68.0,155.0,72.0,Orthodox,21,11,1,False
+http://www.ufcstats.com/fighter-details/d6d5da3c209884bc,Guilherme,Vasconcelos,Bomba,72.0,185.0,74.0,Orthodox,3,2,0,False
+http://www.ufcstats.com/fighter-details/a148dfe3485be79d,Linton,Vassell,The Swarm,76.0,205.0,,,18,5,0,False
+http://www.ufcstats.com/fighter-details/61428ed51f5ff465,Billy,Vaughan,,66.0,155.0,,,11,9,0,False
+http://www.ufcstats.com/fighter-details/4679a38cced7c64a,Yuri,Vaulin,,76.0,197.0,,Southpaw,0,1,0,False
+http://www.ufcstats.com/fighter-details/be5cfd73617a5b1a,Javier,Vazquez,Showtime,67.0,145.0,69.0,Southpaw,16,5,0,False
+http://www.ufcstats.com/fighter-details/8d4d25fd9218860b,Manny,Vazquez,,70.0,125.0,72.0,Orthodox,11,2,0,False
+http://www.ufcstats.com/fighter-details/6291decf7f3b6608,James,Wade,,70.0,205.0,,,4,10,0,False
+http://www.ufcstats.com/fighter-details/c8097968da5e5f13,Chris,Wade,,70.0,155.0,70.0,Orthodox,12,3,0,False
+http://www.ufcstats.com/fighter-details/6b7bc7eaf2465387,Neil,Wain,Old School,70.0,242.0,,Orthodox,10,3,0,False
+http://www.ufcstats.com/fighter-details/8f2939f5fd9cca1e,TJ,Waldburger,The Modern Day Warrior,71.0,170.0,75.0,Orthodox,16,9,0,False
+http://www.ufcstats.com/fighter-details/aeb6c57b9bd8bc3a,Chase,Waldon,,73.0,185.0,75.0,Orthodox,11,2,0,False
+http://www.ufcstats.com/fighter-details/18944a1a6ac1becf,Andre,Walker,,71.0,205.0,,Southpaw,1,5,0,False
+http://www.ufcstats.com/fighter-details/bd92e38aef641673,Herschel,Walker,,73.0,215.0,,Orthodox,2,0,0,False
+http://www.ufcstats.com/fighter-details/e6147d5ab3685899,Donny,Walker,Eagle Eye,69.0,135.0,,,15,8,0,False
+http://www.ufcstats.com/fighter-details/c21f26bbde777573,Johnny,Walker,,78.0,205.0,82.0,Orthodox,17,5,0,False
+http://www.ufcstats.com/fighter-details/1ad381c8994c4e5b,Ben,Wall,Manimal,70.0,155.0,73.0,Orthodox,7,2,1,False
+http://www.ufcstats.com/fighter-details/bf41b5131545da12,Crafton,Wallace,Blaze,72.0,185.0,,Orthodox,18,6,1,False
+http://www.ufcstats.com/fighter-details/b9415726dc3ec526,Rodney,Wallace,Shonuff the Master,69.0,205.0,72.0,Switch,11,4,1,False
+http://www.ufcstats.com/fighter-details/b87c3f460709f74c,Jeremy,Wallace,,69.0,,,,4,5,0,False
+http://www.ufcstats.com/fighter-details/95cf6be9071e68b0,Randall,Wallace,Braveheart,71.0,185.0,73.0,Orthodox,15,6,0,False
+http://www.ufcstats.com/fighter-details/4078de7181a19142,James,Wallace,Jesse,70.0,155.0,69.0,Orthodox,9,2,0,False
+http://www.ufcstats.com/fighter-details/0c670b443c3d269f,Jimmy,Wallhead,Judo,70.0,170.0,73.0,Orthodox,29,11,0,False
+http://www.ufcstats.com/fighter-details/83c6c3e0f8bde8ee,Cory,Walmsley,Hardcore,72.0,205.0,,Orthodox,8,2,0,False
+http://www.ufcstats.com/fighter-details/303a05a7aa3ff761,Richard,Walsh,Filthy Rich,72.0,170.0,73.0,Orthodox,9,6,0,False
+http://www.ufcstats.com/fighter-details/b4c96c3d9139bf0e,Patrick,Walsh,The Beast of the East,71.0,185.0,71.0,,5,3,0,False
+http://www.ufcstats.com/fighter-details/d57e6a8971b6d2bd,Erick,Wanderlei,,73.0,205.0,,Orthodox,3,3,0,False
+http://www.ufcstats.com/fighter-details/a1d6b308781aa2f5,Dimitiri,Wanderley,,,205.0,,Orthodox,5,2,0,False
+http://www.ufcstats.com/fighter-details/476414d2f18cd059,Andy,Wang,,66.0,155.0,,Orthodox,7,8,1,False
+http://www.ufcstats.com/fighter-details/efb9a43415a56d34,Sai,Wang,The Fire Kylin,72.0,170.0,72.0,Southpaw,8,5,1,False
+http://www.ufcstats.com/fighter-details/69e8c632135af48b,An Ying,Wang,Smiley,72.0,170.0,,Orthodox,2,2,0,False
+http://www.ufcstats.com/fighter-details/2721bb808bb2523c,Curt,Warburton,,72.0,155.0,73.0,Orthodox,7,3,0,False
+http://www.ufcstats.com/fighter-details/e6dac752a2418a88,Rubens,Xavier,Macula,75.0,220.0,,Orthodox,5,3,0,False
+http://www.ufcstats.com/fighter-details/efb96bf3e9ada36f,Song,Yadong,,68.0,135.0,67.0,Orthodox,15,4,1,False
+http://www.ufcstats.com/fighter-details/85248da6e9e2f7e7,Jamie,Yager,The Chosyn 1,73.0,185.0,,Orthodox,5,2,0,False
+http://www.ufcstats.com/fighter-details/cc84b68f862b466f,Eddie,Yagin,The Filipino Phenom,67.0,145.0,,Orthodox,16,5,1,False
+http://www.ufcstats.com/fighter-details/94527830000ab715,Rani,Yahya,,66.0,135.0,67.0,Orthodox,26,10,1,False
+http://www.ufcstats.com/fighter-details/d06f8869449ba7bd,Alexander,Yakovlev,Russian Thunder,75.0,155.0,74.0,Southpaw,24,9,1,False
+http://www.ufcstats.com/fighter-details/6014d25e73b669c9,Keiichiro,Yamamiya,,71.0,185.0,,Southpaw,40,27,10,False
+http://www.ufcstats.com/fighter-details/9f488f520ed25bbf,Kenichi,Yamamoto,,72.0,170.0,,Orthodox,5,10,2,False
+http://www.ufcstats.com/fighter-details/eed2b71d77d95416,Yoshihisa,Yamamoto,,74.0,220.0,,Southpaw,14,24,1,False
+http://www.ufcstats.com/fighter-details/351264d11286d09a,Atsushi,Yamamoto,,66.0,139.0,,Orthodox,15,7,3,False
+http://www.ufcstats.com/fighter-details/4834ff149dc9542a,Norifumi,Yamamoto,Kid,64.0,135.0,66.0,Southpaw,18,6,0,False
+http://www.ufcstats.com/fighter-details/283645128ae57eda,Hiroko,Yamanaka,Cat's Eye,71.0,135.0,,,12,3,0,False
+http://www.ufcstats.com/fighter-details/9e1a7101fefe9746,Goiti,Yamauchi,,70.0,145.0,,,21,3,0,False
+http://www.ufcstats.com/fighter-details/d1d20e651e6cbc02,Takeshi,Yamazaki,,68.0,139.0,,Southpaw,15,12,3,False
+http://www.ufcstats.com/fighter-details/c41d426cc7326d1b,Xiaonan,Yan,,65.0,115.0,63.0,Orthodox,12,1,0,False
+http://www.ufcstats.com/fighter-details/d661ce4da776fc20,Petr,Yan,No Mercy,67.0,135.0,67.0,Switch,14,1,0,False
+http://www.ufcstats.com/fighter-details/0a95c474e61a6c44,Adam,Yandiev,Boroda,69.0,185.0,74.0,Orthodox,9,1,0,False
+http://www.ufcstats.com/fighter-details/aed06011bf62237b,Dongi,Yang,The Ox,70.0,185.0,71.0,Southpaw,13,3,0,False
+http://www.ufcstats.com/fighter-details/d3c554d6e11fc9d6,Jianping,Yang,Tiger,67.0,145.0,65.0,Orthodox,7,4,1,False
+http://www.ufcstats.com/fighter-details/d56caaa5e123f518,Masutatsu,Yano,,69.0,198.0,,Orthodox,2,4,1,False
+http://www.ufcstats.com/fighter-details/f1175ea3aafbf351,Hu,Yaozong,Totoro,75.0,205.0,72.0,Orthodox,3,2,0,False
+http://www.ufcstats.com/fighter-details/2299605af59fd309,Emmanuel,Yarborough,,80.0,770.0,,Open Stance,1,2,0,False
+http://www.ufcstats.com/fighter-details/a0b91014e9d16a76,Cale,Yarbrough,,73.0,185.0,,Orthodox,8,3,0,False
+http://www.ufcstats.com/fighter-details/49e7e05f902479ca,Tadao,Yasuda,,76.0,310.0,,Orthodox,2,4,0,False
+http://www.ufcstats.com/fighter-details/620be7e0712d431b,Yoshiaki,Yatsu,,73.0,165.0,,Orthodox,0,2,0,False
+http://www.ufcstats.com/fighter-details/920632ca1b78fae5,Chris,Yee,,69.0,185.0,,,4,6,0,False
+http://www.ufcstats.com/fighter-details/2284092f8b63273b,Luke,Zachrich,,74.0,185.0,74.0,Orthodox,14,4,0,False
+http://www.ufcstats.com/fighter-details/8c822811eedc11ad,Anton,Zafir,The Professor,71.0,170.0,72.0,Orthodox,7,3,0,False
+http://www.ufcstats.com/fighter-details/24656ef4d605c96f,Aiemann,Zahabi,,68.0,135.0,68.0,Orthodox,7,2,0,False
+http://www.ufcstats.com/fighter-details/52c2ae6d2f2d2613,Youssef,Zalal,The Moroccan Devil,70.0,145.0,72.0,Switch,8,2,0,False
+http://www.ufcstats.com/fighter-details/8adcbd525fab8d9b,Elizeu,Zaleski dos Santos,Capoeira,71.0,170.0,73.0,Orthodox,22,6,0,False
+http://www.ufcstats.com/fighter-details/cc3878d1ab41a5fa,Zach,Zane,God's Warrior,67.0,145.0,69.0,Southpaw,12,7,0,False
+http://www.ufcstats.com/fighter-details/fe5ca7ef93c3f6a7,Roger,Zapata,Viva,71.0,170.0,74.0,Southpaw,4,3,0,False
+http://www.ufcstats.com/fighter-details/abcf7e55a0a9ed89,Marius,Zaromskis,The Whitemare,69.0,170.0,,Orthodox,15,7,0,False
+http://www.ufcstats.com/fighter-details/3bb2dc8e87b10a46,David,Zawada,Sagat,72.0,170.0,75.0,Orthodox,17,5,0,False
+http://www.ufcstats.com/fighter-details/be4076c9e8d791e3,Joao,Zeferino,The Brazilian Samurai,71.0,170.0,73.0,Orthodox,13,6,0,False
+http://www.ufcstats.com/fighter-details/3794e5e0bb0defb6,Craig,Zellner,Big Z,74.0,205.0,,Orthodox,4,3,0,False
+http://www.ufcstats.com/fighter-details/3144121470023e9a,Roman,Zentsov,The Russian Hammer,73.0,230.0,,Orthodox,18,13,0,False
+http://www.ufcstats.com/fighter-details/cbf69fa846c7e3ee,Carlos,Zevallos,,72.0,205.0,,Orthodox,1,1,0,False
+http://www.ufcstats.com/fighter-details/55fa6ce3e522c8bb,Zhalgas,Zhamagulov,,64.0,125.0,,,13,3,0,False
+http://www.ufcstats.com/fighter-details/c23e3d4875340d8d,Tiequan,Zhang,The Wolf,68.0,155.0,70.0,Orthodox,18,4,0,False
+http://www.ufcstats.com/fighter-details/7b310409440c9102,Lipeng,Zhang,The Warrior,71.0,155.0,71.0,Southpaw,9,9,1,False
+http://www.ufcstats.com/fighter-details/1ebe20ebbfa15e29,Weili,Zhang,Magnum,64.0,115.0,63.0,Switch,21,1,0,True
+http://www.ufcstats.com/fighter-details/5ea918ea81b7dee2,Yao,Zhikui,The Conqueror,65.0,125.0,64.0,Orthodox,2,5,0,False
+http://www.ufcstats.com/fighter-details/1e4f273069fb9e85,Fares,Ziam,Smile Killer,73.0,155.0,75.0,Orthodox,10,3,0,False
+http://www.ufcstats.com/fighter-details/6d3398b910461f2f,Mike,Zichelle,,,205.0,,,8,4,0,False
+http://www.ufcstats.com/fighter-details/4b4fc3ddc307bc73,James,Zikic,The Messenger,74.0,205.0,,Orthodox,20,8,2,False
+http://www.ufcstats.com/fighter-details/0aa74d04c196800c,Errol,Zimmerman,The Bonecrusher,75.0,185.0,,Orthodox,0,1,0,False
+http://www.ufcstats.com/fighter-details/3ecd936bd8814108,Cat,Zingano,Alpha,66.0,145.0,68.0,Southpaw,10,4,0,False
+http://www.ufcstats.com/fighter-details/108afe61a26bcbf4,Igor,Zinoviev,Houdini,73.0,199.0,,Orthodox,4,1,2,False
+http://www.ufcstats.com/fighter-details/be124bdd60fab7d5,Dave,Zitanick,,,170.0,,,5,7,0,False

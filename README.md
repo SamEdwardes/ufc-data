@@ -1,7 +1,18 @@
 # UFC Fight Data
 
-[fight_results.csv](fight_results.csv) - from ufcstats.com
+Based on ufcstats.com:
 
-All other files from Rajeev Warrier and hosted on Kaggle:
+- [event_details.csv](event_details.csv)
+- [fighter_details.csv](fighter_details.csv)
 
-https://www.kaggle.com/rajeevw/ufcdata#data.csv.
+
+
+[UFC-Fight historical data](https://www.kaggle.com/rajeevw/ufcdata#data.csv) from Rajeev Warrier and hosted on Kaggle:
+
+- [data.csv](data.csv)
+- [preprocessed_data.csv](preprocessed_data.csv)
+- [raw_fighter_details.csv](raw_fighter_details.csv)
+- [raw_total_fight_data.csv](raw_total_fight_data.csv)
+
+
+
